@@ -34,7 +34,7 @@ Additional functions:
 
 ## :see\_no\_evil: user mode rootkits
 
-* <https://github.com/mempodippy/vlany> ⭐ 986 | 🐛 13 | 🌐 C | 📅 2020-12-11
+* <https://github.com/mempodippy/vlany> ⭐ 985 | 🐛 13 | 🌐 C | 📅 2020-12-11
 
   Linux LD\_PRELOAD rootkit (x86 and x86\_64 architectures)
 
@@ -64,7 +64,7 @@ Additional functions:
 
 ## :hear\_no\_evil: kernel mode rootkits
 
-* <https://github.com/m0nad/Diamorphine> ⭐ 2,431 | 🐛 12 | 🌐 C | 📅 2026-04-27
+* <https://github.com/m0nad/Diamorphine> ⭐ 2,430 | 🐛 12 | 🌐 C | 📅 2026-04-27
 
   LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86 and x86\_64)
 
@@ -72,35 +72,35 @@ Additional functions:
 
   A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 
-* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,727 | 🐛 1 | 🌐 C | 📅 2026-06-11
+* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,728 | 🐛 1 | 🌐 C | 📅 2026-06-11
 
   Singularity is a powerful Linux Kernel Module (LKM) rootkit designed for modern 6.x kernels. It provides comprehensive stealth capabilities through advanced system call hooking via ftrace infrastructure.
 
-* <https://github.com/kris-nova/boopkit> ⭐ 1,677 | 🐛 13 | 🌐 C | 📅 2023-10-19
+* <https://github.com/kris-nova/boopkit> ⭐ 1,678 | 🐛 13 | 🌐 C | 📅 2023-10-19
 
   Linux backdoor, rootkit, and eBPF bypass tools. Remote command execution over raw TCP.
 
-* <https://github.com/nurupo/rootkit> ⭐ 828 | 🐛 1 | 🌐 C | 📅 2024-04-07
+* <https://github.com/nurupo/rootkit> ⭐ 827 | 🐛 1 | 🌐 C | 📅 2024-04-07
 
   Linux rootkit for Ubuntu 16.04 and 10.04 (Linux Kernels 4.4.0 and 2.6.32), both i386 and amd64
 
-* <https://github.com/mncoppola/suterusu> ⭐ 685 | 🐛 5 | 🌐 C | 📅 2017-11-21
+* <https://github.com/mncoppola/suterusu> ⭐ 684 | 🐛 5 | 🌐 C | 📅 2017-11-21
 
   An LKM rootkit targeting Linux 2.6.x/3.x on x86, and ARM
 
-* <https://github.com/jarun/keysniffer> ⭐ 681 | 🐛 0 | 🌐 C | 📅 2022-04-15
+* <https://github.com/jarun/keysniffer> ⭐ 682 | 🐛 0 | 🌐 C | 📅 2022-04-15
 
   A Linux kernel module to grab keys pressed in the keyboard.
 
-* <https://github.com/carloslack/KoviD> ⭐ 653 | 🐛 7 | 🌐 C | 📅 2026-05-31
+* <https://github.com/carloslack/KoviD> ⭐ 654 | 🐛 7 | 🌐 C | 📅 2026-05-31
 
   Linux 4.18+ rootkit with multiple reverse backdoors, task management, CPU usage hiding, stealth techniques, ELF infection and evasion from anti-rooktiks based on eBPF.
 
-* <https://github.com/NoviceLive/research-rootkit> ⭐ 601 | 🐛 4 | 🌐 C | 📅 2021-12-01
+* <https://github.com/NoviceLive/research-rootkit> ⭐ 600 | 🐛 4 | 🌐 C | 📅 2021-12-01
 
   This is LibZeroEvil & the Research Rootkit project, in which there are step-by-step, experiment-based courses that help to get you started and keep your hands dirty with offensive or defensive development in the Linux kernel (LibZeroEvil).
 
-* <https://github.com/ivyl/rootkit> ⭐ 405 | 🐛 0 | 🌐 TeX | 📅 2024-07-29
+* <https://github.com/ivyl/rootkit> ⭐ 404 | 🐛 0 | 🌐 TeX | 📅 2024-07-29
 
   Sample Rootkit for Linux
 
@@ -120,7 +120,7 @@ Additional functions:
 
   A LKM rootkit for most newer kernel versions.
 
-* <https://github.com/Eterna1/puszek-rootkit> ⭐ 161 | 🐛 1 | 🌐 C | 📅 2018-02-12
+* <https://github.com/Eterna1/puszek-rootkit> ⭐ 162 | 🐛 1 | 🌐 C | 📅 2018-02-12
 
   Yet another LKM rootkit for Linux. It hooks syscall table.
 
@@ -244,7 +244,7 @@ Additional functions:
 
 Tools for detecting and analyzing rootkits:
 
-* <https://github.com/CISOfy/lynis> ⭐ 16,148 | 🐛 218 | 🌐 Shell | 📅 2026-08-05
+* <https://github.com/CISOfy/lynis> ⭐ 16,150 | 🐛 218 | 🌐 Shell | 📅 2026-08-05
 
   Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems with rootkit scanning.
 
@@ -256,7 +256,7 @@ Tools for detecting and analyzing rootkits:
 
   OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
 
-* <https://github.com/Sysinternals/SysmonForLinux> ⭐ 2,146 | 🐛 40 | 🌐 C | 📅 2026-07-13
+* <https://github.com/Sysinternals/SysmonForLinux> ⭐ 2,148 | 🐛 40 | 🌐 C | 📅 2026-07-13
 
   Sysmon For Linux - system monitoring tool that logs security-relevant events.
 
@@ -278,4 +278,4 @@ Tools for detecting and analyzing rootkits:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

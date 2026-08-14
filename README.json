@@ -14,7 +14,7 @@
             "last_commit": "2020-12-11T19:37:00Z",
             "owner": "mempodippy",
             "repo": "vlany",
-            "stars": 986
+            "stars": 985
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-04-27T07:51:50Z",
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2431
+            "stars": 2430
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2026-06-11T17:22:31Z",
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1727
+            "stars": 1728
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2023-10-19T07:43:18Z",
             "owner": "krisnova",
             "repo": "boopkit",
-            "stars": 1677
+            "stars": 1678
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2024-04-07T03:35:41Z",
             "owner": "nurupo",
             "repo": "rootkit",
-            "stars": 828
+            "stars": 827
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2017-11-21T10:17:53Z",
             "owner": "mncoppola",
             "repo": "suterusu",
-            "stars": 685
+            "stars": 684
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2022-04-15T12:09:09Z",
             "owner": "jarun",
             "repo": "spy",
-            "stars": 681
+            "stars": 682
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-05-31T15:05:07Z",
             "owner": "carloslack",
             "repo": "KoviD",
-            "stars": 653
+            "stars": 654
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2021-12-01T14:03:07Z",
             "owner": "NoviceLive",
             "repo": "research-rootkit",
-            "stars": 601
+            "stars": 600
           }
         },
         {
@@ -244,7 +244,7 @@
             "last_commit": "2024-07-29T13:49:45Z",
             "owner": "ivyl",
             "repo": "rootkit",
-            "stars": 405
+            "stars": 404
           }
         },
         {
@@ -314,7 +314,7 @@
             "last_commit": "2018-02-12T23:27:42Z",
             "owner": "Eterna1",
             "repo": "puszek-rootkit",
-            "stars": 161
+            "stars": 162
           }
         },
         {
@@ -686,7 +686,7 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16148
+            "stars": 16150
           }
         },
         {
@@ -728,7 +728,7 @@
             "last_commit": "2026-07-13T23:10:10Z",
             "owner": "microsoft",
             "repo": "SysmonForLinux",
-            "stars": 2146
+            "stars": 2148
           }
         },
         {
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:08:52.998Z",
+    "last_updated": "2026-08-14T03:24:09.970Z",
     "original_repository": "milabs/awesome-linux-rootkits",
     "original_repository_sha": "e262bb14aba19fef67746e998e376bead935fbe5",
     "enhanced_repository": "enhansome/enhansome-linux-rootkits",
