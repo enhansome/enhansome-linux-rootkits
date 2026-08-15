@@ -118,7 +118,7 @@
             "last_commit": "2026-04-27T07:51:50Z",
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2430
+            "stars": 2431
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2026-06-11T17:22:31Z",
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1728
+            "stars": 1729
           }
         },
         {
@@ -686,7 +686,7 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16150
+            "stars": 16155
           }
         },
         {
@@ -714,7 +714,7 @@
             "last_commit": "2026-08-12T20:55:11Z",
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5046
+            "stars": 5047
           }
         },
         {
@@ -728,7 +728,7 @@
             "last_commit": "2026-07-13T23:10:10Z",
             "owner": "microsoft",
             "repo": "SysmonForLinux",
-            "stars": 2148
+            "stars": 2149
           }
         },
         {
@@ -742,7 +742,7 @@
             "last_commit": "2024-06-19T02:13:41Z",
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2094
+            "stars": 2093
           }
         },
         {
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:24:09.970Z",
+    "last_updated": "2026-08-15T02:14:13.918Z",
     "original_repository": "milabs/awesome-linux-rootkits",
     "original_repository_sha": "e262bb14aba19fef67746e998e376bead935fbe5",
     "enhanced_repository": "enhansome/enhansome-linux-rootkits",
