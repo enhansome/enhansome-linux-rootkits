@@ -118,7 +118,7 @@
             "last_commit": "2026-04-27T07:51:50Z",
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2431
+            "stars": 2434
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2026-06-11T17:22:31Z",
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1729
+            "stars": 1732
           }
         },
         {
@@ -686,7 +686,7 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16155
+            "stars": 16158
           }
         },
         {
@@ -714,7 +714,7 @@
             "last_commit": "2026-08-12T20:55:11Z",
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5047
+            "stars": 5048
           }
         },
         {
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:14:13.918Z",
+    "last_updated": "2026-08-16T02:20:50.700Z",
     "original_repository": "milabs/awesome-linux-rootkits",
     "original_repository_sha": "e262bb14aba19fef67746e998e376bead935fbe5",
     "enhanced_repository": "enhansome/enhansome-linux-rootkits",
