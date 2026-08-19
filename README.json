@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72287867,
             "language": "C",
             "last_commit": "2020-12-11T19:37:00Z",
             "owner": "mempodippy",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16822617,
             "language": "C",
             "last_commit": "2024-03-07T22:27:51Z",
             "owner": "chokepoint",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33940242,
             "language": "C",
             "last_commit": "2017-04-28T12:16:07Z",
             "owner": "unix-thrust",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7177909,
             "language": "C",
             "last_commit": "2012-12-15T09:57:08Z",
             "owner": "chokepoint",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70885618,
             "language": "C",
             "last_commit": "2016-11-15T17:14:13Z",
             "owner": "NexusBots",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7177851,
             "language": "C",
             "last_commit": "2012-12-15T09:52:59Z",
             "owner": "chokepoint",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1046490132,
             "language": null,
             "last_commit": "2025-08-28T19:05:11Z",
             "owner": "ChristianPapathanasiou",
@@ -105,7 +112,7 @@
       "title": ":see_no_evil: user mode rootkits"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107891179,
             "language": "C",
             "last_commit": "2026-08-17T16:08:57Z",
             "owner": "f0rb1dd3n",
@@ -128,11 +136,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14187797,
             "language": "C",
             "last_commit": "2026-04-27T07:51:50Z",
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2436
+            "stars": 2437
           }
         },
         {
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 421918747,
             "language": "C",
             "last_commit": "2024-04-07T02:06:19Z",
             "owner": "h3xduck",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1062196393,
             "language": "C",
             "last_commit": "2026-06-11T17:22:31Z",
             "owner": "MatheuZSecurity",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 475870202,
             "language": "C",
             "last_commit": "2023-10-19T07:43:18Z",
             "owner": "krisnova",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79993552,
             "language": "C",
             "last_commit": "2024-04-07T03:35:41Z",
             "owner": "nurupo",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13511819,
             "language": "C",
             "last_commit": "2017-11-21T10:17:53Z",
             "owner": "mncoppola",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43768891,
             "language": "C",
             "last_commit": "2022-04-15T12:09:09Z",
             "owner": "jarun",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 476709450,
             "language": "C",
             "last_commit": "2026-05-31T15:05:07Z",
             "owner": "carloslack",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59925167,
             "language": "C",
             "last_commit": "2021-12-01T14:03:07Z",
             "owner": "NoviceLive",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3113640,
             "language": "TeX",
             "last_commit": "2024-07-29T13:49:45Z",
             "owner": "ivyl",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162038180,
             "language": "C",
             "last_commit": "2024-11-18T19:00:46Z",
             "owner": "trailofbits",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 462661938,
             "language": "C",
             "last_commit": "2025-12-06T07:58:12Z",
             "owner": "reveng007",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24480560,
             "language": "C",
             "last_commit": "2015-12-30T07:15:55Z",
             "owner": "yaoyumeng",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82727756,
             "language": "C",
             "last_commit": "2017-09-17T13:34:20Z",
             "owner": "croemheld",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61206319,
             "language": "C",
             "last_commit": "2018-02-12T23:27:42Z",
             "owner": "Eterna1",
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 360331271,
             "language": "C",
             "last_commit": "2021-09-19T11:04:33Z",
             "owner": "h3xduck",
@@ -352,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98127893,
             "language": "C",
             "last_commit": "2026-03-27T21:14:18Z",
             "owner": "jermeyyy",
@@ -366,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49976959,
             "language": "C",
             "last_commit": "2024-07-27T10:47:12Z",
             "owner": "QuokkaLight",
@@ -380,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38874320,
             "language": "C",
             "last_commit": "2023-08-11T06:24:42Z",
             "owner": "therealdreg",
@@ -394,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137761357,
             "language": "C",
             "last_commit": "2019-10-17T09:44:51Z",
             "owner": "PinkP4nther",
@@ -408,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 342968360,
             "language": "C",
             "last_commit": "2021-03-11T10:52:41Z",
             "owner": "milabs",
@@ -422,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11696868,
             "language": "Python",
             "last_commit": "2015-05-01T21:09:19Z",
             "owner": "bones-codes",
@@ -436,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1689251,
             "language": "C",
             "last_commit": "2022-01-11T16:56:41Z",
             "owner": "mponcet",
@@ -450,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 877893378,
             "language": "C",
             "last_commit": "2025-06-05T16:01:39Z",
             "owner": "ait-aecid",
@@ -464,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54781313,
             "language": "C",
             "last_commit": "2016-04-06T16:29:30Z",
             "owner": "hanj4096",
@@ -478,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61631410,
             "language": "C",
             "last_commit": "2016-06-21T12:32:40Z",
             "owner": "a7vinx",
@@ -492,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18272351,
             "language": "C",
             "last_commit": "2026-06-04T17:43:03Z",
             "owner": "kacheo",
@@ -506,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9644966,
             "language": "C",
             "last_commit": "2021-10-03T23:45:01Z",
             "owner": "dsmatter",
@@ -520,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51228873,
             "language": "C",
             "last_commit": "2016-03-15T21:00:03Z",
             "owner": "vrasneur",
@@ -534,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115229079,
             "language": "C",
             "last_commit": "2020-06-16T08:21:01Z",
             "owner": "En14c",
@@ -548,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26662752,
             "language": "Python",
             "last_commit": "2014-11-15T00:00:42Z",
             "owner": "NinnOgTonic",
@@ -562,36 +601,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53808318,
             "language": "C",
             "last_commit": "2016-03-13T21:21:24Z",
             "owner": "deb0ch",
             "repo": "toorkit",
             "stars": 14
           }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/romeroperezabel/ARP-RootKit",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/jiayy/lkm-rootkit",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/varshapaidi/Kernel_Rootkit",
-          "description": null,
-          "children": []
         }
       ],
       "title": ":hear_no_evil: kernel mode rootkits"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -600,6 +622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23007645,
             "language": "C",
             "last_commit": "2019-08-02T14:28:28Z",
             "owner": "gianlucaborello",
@@ -614,6 +637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 902602208,
             "language": "C",
             "last_commit": "2025-10-22T03:58:01Z",
             "owner": "MatheuZSecurity",
@@ -628,6 +652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122649277,
             "language": "C",
             "last_commit": "2023-10-14T22:58:51Z",
             "owner": "landhb",
@@ -642,6 +667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 298557698,
             "language": "C",
             "last_commit": "2020-10-09T04:28:50Z",
             "owner": "spiderpig1297",
@@ -656,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 299125294,
             "language": "C",
             "last_commit": "2020-10-09T12:50:35Z",
             "owner": "spiderpig1297",
@@ -670,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 298875393,
             "language": "C",
             "last_commit": "2020-09-26T20:14:29Z",
             "owner": "spiderpig1297",
@@ -690,11 +718,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15078635,
             "language": "Shell",
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16177
+            "stars": 16178
           }
         },
         {
@@ -704,11 +733,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15926180,
             "language": "C++",
             "last_commit": "2026-04-13T12:32:03Z",
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8286
+            "stars": 8287
           }
         },
         {
@@ -718,6 +748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12901559,
             "language": "C",
             "last_commit": "2026-08-12T20:55:11Z",
             "owner": "ossec",
@@ -732,11 +763,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 308092559,
             "language": "C",
             "last_commit": "2026-07-13T23:10:10Z",
             "owner": "microsoft",
             "repo": "SysmonForLinux",
-            "stars": 2151
+            "stars": 2152
           }
         },
         {
@@ -746,6 +778,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162132748,
             "language": "Shell",
             "last_commit": "2024-06-19T02:13:41Z",
             "owner": "al0ne",
@@ -760,31 +793,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1143044552,
             "language": "C",
             "last_commit": "2026-04-16T04:43:40Z",
             "owner": "bad-antics",
             "repo": "rupurt",
             "stars": 11
           }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/chkrootkit/chkrootkit",
-          "description": null,
-          "children": []
         }
       ],
       "title": ":mag: detection tools"
-    },
-    {
-      "description": "Please refer the guidelines at contributing.md for details",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:18:47.001Z",
+    "last_updated": "2026-08-19T12:42:19.617Z",
     "original_repository": "milabs/awesome-linux-rootkits",
+    "original_repository_id": 139235277,
     "original_repository_sha": "e262bb14aba19fef67746e998e376bead935fbe5",
     "enhanced_repository": "enhansome/enhansome-linux-rootkits",
     "enhanced_repository_description": null,
