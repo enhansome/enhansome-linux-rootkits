@@ -72,7 +72,7 @@ Additional functions:
 
   LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86 and x86\_64)
 
-* <https://github.com/h3xduck/TripleCross> ⭐ 1,978 | 🐛 19 | 🌐 C | 📅 2024-04-07
+* <https://github.com/h3xduck/TripleCross> ⭐ 1,977 | 🐛 19 | 🌐 C | 📅 2024-04-07
 
   A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 
@@ -96,7 +96,7 @@ Additional functions:
 
   A Linux kernel module to grab keys pressed in the keyboard.
 
-* <https://github.com/carloslack/KoviD> ⭐ 654 | 🐛 7 | 🌐 C | 📅 2026-05-31
+* <https://github.com/carloslack/KoviD> ⭐ 655 | 🐛 7 | 🌐 C | 📅 2026-05-31
 
   Linux 4.18+ rootkit with multiple reverse backdoors, task management, CPU usage hiding, stealth techniques, ELF infection and evasion from anti-rooktiks based on eBPF.
 
@@ -132,7 +132,7 @@ Additional functions:
 
   An experimental LKM rootkit for v4.x/5.x kernels which opens a backdoor that can be used to get a reverse shell remotely.
 
-* <https://github.com/jermeyyy/rooty> ⭐ 120 | 🐛 1 | 🌐 C | 📅 2026-03-27
+* <https://github.com/jermeyyy/rooty> ⭐ 121 | 🐛 1 | 🌐 C | 📅 2026-03-27
 
   Academic project of Linux rootkit made for Bachelor Engineering Thesis.
 
@@ -244,11 +244,11 @@ Additional functions:
 
 Tools for detecting and analyzing rootkits:
 
-* <https://github.com/CISOfy/lynis> ⭐ 16,170 | 🐛 218 | 🌐 Shell | 📅 2026-08-05
+* <https://github.com/CISOfy/lynis> ⭐ 16,177 | 🐛 218 | 🌐 Shell | 📅 2026-08-05
 
   Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems with rootkit scanning.
 
-* <https://github.com/draios/sysdig> ⭐ 8,285 | 🐛 116 | 🌐 C++ | 📅 2026-04-13
+* <https://github.com/draios/sysdig> ⭐ 8,286 | 🐛 116 | 🌐 C++ | 📅 2026-04-13
 
   Sysdig - Linux system exploration and troubleshooting tool with container support, useful for rootkit analysis.
 
@@ -256,7 +256,7 @@ Tools for detecting and analyzing rootkits:
 
   OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
 
-* <https://github.com/Sysinternals/SysmonForLinux> ⭐ 2,150 | 🐛 41 | 🌐 C | 📅 2026-07-13
+* <https://github.com/Sysinternals/SysmonForLinux> ⭐ 2,151 | 🐛 41 | 🌐 C | 📅 2026-07-13
 
   Sysmon For Linux - system monitoring tool that logs security-relevant events.
 
@@ -278,4 +278,4 @@ Tools for detecting and analyzing rootkits:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

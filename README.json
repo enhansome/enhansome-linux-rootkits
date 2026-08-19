@@ -146,7 +146,7 @@
             "last_commit": "2024-04-07T02:06:19Z",
             "owner": "h3xduck",
             "repo": "TripleCross",
-            "stars": 1978
+            "stars": 1977
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2026-05-31T15:05:07Z",
             "owner": "carloslack",
             "repo": "KoviD",
-            "stars": 654
+            "stars": 655
           }
         },
         {
@@ -356,7 +356,7 @@
             "last_commit": "2026-03-27T21:14:18Z",
             "owner": "jermeyyy",
             "repo": "rooty",
-            "stars": 120
+            "stars": 121
           }
         },
         {
@@ -694,7 +694,7 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16170
+            "stars": 16177
           }
         },
         {
@@ -708,7 +708,7 @@
             "last_commit": "2026-04-13T12:32:03Z",
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8285
+            "stars": 8286
           }
         },
         {
@@ -736,7 +736,7 @@
             "last_commit": "2026-07-13T23:10:10Z",
             "owner": "microsoft",
             "repo": "SysmonForLinux",
-            "stars": 2150
+            "stars": 2151
           }
         },
         {
@@ -783,7 +783,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:15:52.145Z",
+    "last_updated": "2026-08-19T02:18:47.001Z",
     "original_repository": "milabs/awesome-linux-rootkits",
     "original_repository_sha": "e262bb14aba19fef67746e998e376bead935fbe5",
     "enhanced_repository": "enhansome/enhansome-linux-rootkits",
