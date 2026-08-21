@@ -30,7 +30,7 @@
             "last_commit": "2024-03-07T22:27:51Z",
             "owner": "chokepoint",
             "repo": "azazel",
-            "stars": 804
+            "stars": 805
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2012-12-15T09:57:08Z",
             "owner": "chokepoint",
             "repo": "Jynx2",
-            "stars": 182
+            "stars": 183
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-06-11T17:22:31Z",
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1733
+            "stars": 1732
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2025-12-06T07:58:12Z",
             "owner": "reveng007",
             "repo": "reveng_rtkit",
-            "stars": 275
+            "stars": 274
           }
         },
         {
@@ -723,7 +723,7 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16183
+            "stars": 16187
           }
         },
         {
@@ -738,7 +738,7 @@
             "last_commit": "2026-04-13T12:32:03Z",
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8287
+            "stars": 8286
           }
         },
         {
@@ -753,7 +753,7 @@
             "last_commit": "2026-08-12T20:55:11Z",
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5044
+            "stars": 5046
           }
         },
         {
@@ -783,7 +783,7 @@
             "last_commit": "2024-06-19T02:13:41Z",
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2092
+            "stars": 2093
           }
         },
         {
@@ -806,7 +806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:17:45.315Z",
+    "last_updated": "2026-08-21T02:23:27.003Z",
     "original_repository": "milabs/awesome-linux-rootkits",
     "original_repository_id": 139235277,
     "original_repository_sha": "e262bb14aba19fef67746e998e376bead935fbe5",
