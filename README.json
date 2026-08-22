@@ -141,7 +141,7 @@
             "last_commit": "2026-04-27T07:51:50Z",
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2440
+            "stars": 2439
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-06-11T17:22:31Z",
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1732
+            "stars": 1734
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2023-10-19T07:43:18Z",
             "owner": "krisnova",
             "repo": "boopkit",
-            "stars": 1678
+            "stars": 1677
           }
         },
         {
@@ -483,7 +483,7 @@
             "archived": false,
             "id": 877893378,
             "language": "C",
-            "last_commit": "2025-06-05T16:01:39Z",
+            "last_commit": "2026-08-21T09:00:38Z",
             "owner": "ait-aecid",
             "repo": "caraxes",
             "stars": 50
@@ -627,7 +627,7 @@
             "last_commit": "2019-08-02T14:28:28Z",
             "owner": "gianlucaborello",
             "repo": "libprocesshider",
-            "stars": 1131
+            "stars": 1130
           }
         },
         {
@@ -723,7 +723,7 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16187
+            "stars": 16191
           }
         },
         {
@@ -783,7 +783,7 @@
             "last_commit": "2024-06-19T02:13:41Z",
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2093
+            "stars": 2094
           }
         },
         {
@@ -806,7 +806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:23:27.003Z",
+    "last_updated": "2026-08-22T02:15:45.041Z",
     "original_repository": "milabs/awesome-linux-rootkits",
     "original_repository_id": 139235277,
     "original_repository_sha": "e262bb14aba19fef67746e998e376bead935fbe5",
