@@ -141,7 +141,7 @@
             "last_commit": "2026-04-27T07:51:50Z",
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2441
+            "stars": 2442
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2017-11-21T10:17:53Z",
             "owner": "mncoppola",
             "repo": "suterusu",
-            "stars": 684
+            "stars": 685
           }
         },
         {
@@ -723,7 +723,7 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16198
+            "stars": 16211
           }
         },
         {
@@ -738,7 +738,7 @@
             "last_commit": "2026-04-13T12:32:03Z",
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8286
+            "stars": 8287
           }
         },
         {
@@ -768,7 +768,7 @@
             "last_commit": "2026-07-13T23:10:10Z",
             "owner": "microsoft",
             "repo": "SysmonForLinux",
-            "stars": 2151
+            "stars": 2152
           }
         },
         {
@@ -783,7 +783,7 @@
             "last_commit": "2024-06-19T02:13:41Z",
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2094
+            "stars": 2096
           }
         },
         {
@@ -806,7 +806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:23:43.873Z",
+    "last_updated": "2026-08-24T02:22:43.603Z",
     "original_repository": "milabs/awesome-linux-rootkits",
     "original_repository_id": 139235277,
     "original_repository_sha": "e262bb14aba19fef67746e998e376bead935fbe5",
