@@ -723,7 +723,7 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16211
+            "stars": 16218
           }
         },
         {
@@ -738,7 +738,7 @@
             "last_commit": "2026-04-13T12:32:03Z",
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8287
+            "stars": 8289
           }
         },
         {
@@ -806,7 +806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:22:43.603Z",
+    "last_updated": "2026-08-24T14:05:24.177Z",
     "original_repository": "milabs/awesome-linux-rootkits",
     "original_repository_id": 139235277,
     "original_repository_sha": "e262bb14aba19fef67746e998e376bead935fbe5",
