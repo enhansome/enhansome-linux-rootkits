@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/mempodippy/vlany",
+          "title": "mempodippy/vlany",
           "description": null,
           "children": [],
           "repo_info": {
@@ -20,7 +20,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/chokepoint/azazel",
+          "title": "chokepoint/azazel",
           "description": null,
           "children": [],
           "repo_info": {
@@ -35,7 +35,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/unix-thrust/beurk",
+          "title": "unix-thrust/beurk",
           "description": null,
           "children": [],
           "repo_info": {
@@ -50,7 +50,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/chokepoint/Jynx2",
+          "title": "chokepoint/Jynx2",
           "description": null,
           "children": [],
           "repo_info": {
@@ -65,7 +65,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/NexusBots/Umbreon-Rootkit",
+          "title": "NexusBots/Umbreon-Rootkit",
           "description": null,
           "children": [],
           "repo_info": {
@@ -80,7 +80,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/chokepoint/jynxkit",
+          "title": "chokepoint/jynxkit",
           "description": null,
           "children": [],
           "repo_info": {
@@ -95,7 +95,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ChristianPapathanasiou/apache-rootkit",
+          "title": "ChristianPapathanasiou/apache-rootkit",
           "description": null,
           "children": [],
           "repo_info": {
@@ -116,7 +116,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/f0rb1dd3n/Reptile",
+          "title": "f0rb1dd3n/Reptile",
           "description": "zap: details :zap:",
           "children": [],
           "repo_info": {
@@ -126,12 +126,12 @@
             "last_commit": "2026-08-17T16:08:57Z",
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2717
+            "stars": 2718
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/m0nad/Diamorphine",
+          "title": "m0nad/Diamorphine",
           "description": null,
           "children": [],
           "repo_info": {
@@ -146,7 +146,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/h3xduck/TripleCross",
+          "title": "h3xduck/TripleCross",
           "description": null,
           "children": [],
           "repo_info": {
@@ -161,7 +161,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/MatheuZSecurity/Singularity",
+          "title": "MatheuZSecurity/Singularity",
           "description": null,
           "children": [],
           "repo_info": {
@@ -176,7 +176,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/kris-nova/boopkit",
+          "title": "krisnova/boopkit",
           "description": null,
           "children": [],
           "repo_info": {
@@ -191,7 +191,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/nurupo/rootkit",
+          "title": "nurupo/rootkit",
           "description": null,
           "children": [],
           "repo_info": {
@@ -206,7 +206,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mncoppola/suterusu",
+          "title": "mncoppola/suterusu",
           "description": null,
           "children": [],
           "repo_info": {
@@ -221,7 +221,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/jarun/keysniffer",
+          "title": "jarun/spy",
           "description": null,
           "children": [],
           "repo_info": {
@@ -236,7 +236,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/carloslack/KoviD",
+          "title": "carloslack/KoviD",
           "description": null,
           "children": [],
           "repo_info": {
@@ -251,7 +251,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/NoviceLive/research-rootkit",
+          "title": "NoviceLive/research-rootkit",
           "description": null,
           "children": [],
           "repo_info": {
@@ -266,7 +266,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ivyl/rootkit",
+          "title": "ivyl/rootkit",
           "description": null,
           "children": [],
           "repo_info": {
@@ -281,7 +281,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/trailofbits/krf",
+          "title": "trailofbits/krf",
           "description": null,
           "children": [],
           "repo_info": {
@@ -296,7 +296,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/reveng007/reveng_rtkit",
+          "title": "reveng007/reveng_rtkit",
           "description": null,
           "children": [],
           "repo_info": {
@@ -311,7 +311,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/trimpsyw/adore-ng",
+          "title": "yaoyumeng/adore-ng",
           "description": null,
           "children": [],
           "repo_info": {
@@ -326,7 +326,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/croemheld/lkm-rootkit",
+          "title": "croemheld/lkm-rootkit",
           "description": null,
           "children": [],
           "repo_info": {
@@ -341,7 +341,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Eterna1/puszek-rootkit",
+          "title": "Eterna1/puszek-rootkit",
           "description": null,
           "children": [],
           "repo_info": {
@@ -356,7 +356,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/h3xduck/Umbra",
+          "title": "h3xduck/Umbra",
           "description": null,
           "children": [],
           "repo_info": {
@@ -371,7 +371,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/jermeyyy/rooty",
+          "title": "jermeyyy/rooty",
           "description": null,
           "children": [],
           "repo_info": {
@@ -386,7 +386,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/QuokkaLight/rkduck",
+          "title": "QuokkaLight/rkduck",
           "description": "zap: details :zap:",
           "children": [],
           "repo_info": {
@@ -401,7 +401,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/David-Reguera-Garcia-Dreg/enyelkm",
+          "title": "therealdreg/enyelkm",
           "description": null,
           "children": [],
           "repo_info": {
@@ -416,7 +416,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/PinkP4nther/Sutekh",
+          "title": "PinkP4nther/Sutekh",
           "description": null,
           "children": [],
           "repo_info": {
@@ -431,7 +431,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/milabs/kopycat",
+          "title": "milabs/kopycat",
           "description": null,
           "children": [],
           "repo_info": {
@@ -446,7 +446,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/bones-codes/the_colonel",
+          "title": "bones-codes/the_colonel",
           "description": null,
           "children": [],
           "repo_info": {
@@ -461,7 +461,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/falk3n/subversive",
+          "title": "mponcet/subversive",
           "description": null,
           "children": [],
           "repo_info": {
@@ -476,7 +476,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ait-aecid/caraxes/",
+          "title": "ait-aecid/caraxes",
           "description": null,
           "children": [],
           "repo_info": {
@@ -491,7 +491,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/hanj4096/wukong",
+          "title": "hanj4096/wukong",
           "description": null,
           "children": [],
           "repo_info": {
@@ -506,7 +506,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/a7vinx/liinux",
+          "title": "a7vinx/liinux",
           "description": null,
           "children": [],
           "repo_info": {
@@ -521,7 +521,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/kacheo/KernelRootkit",
+          "title": "kacheo/KernelRootkit",
           "description": null,
           "children": [],
           "repo_info": {
@@ -536,7 +536,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/dsmatter/brootus",
+          "title": "dsmatter/brootus",
           "description": null,
           "children": [],
           "repo_info": {
@@ -551,7 +551,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/vrasneur/randkit",
+          "title": "vrasneur/randkit",
           "description": null,
           "children": [],
           "repo_info": {
@@ -566,7 +566,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/En14c/LilyOfTheValley",
+          "title": "En14c/LilyOfTheValley",
           "description": null,
           "children": [],
           "repo_info": {
@@ -581,7 +581,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/NinnOgTonic/Out-of-Sight-Out-of-Mind-Rootkit",
+          "title": "NinnOgTonic/Out-of-Sight-Out-of-Mind-Rootkit",
           "description": "zap: writeup :zap:",
           "children": [],
           "repo_info": {
@@ -596,7 +596,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/deb0ch/toorkit",
+          "title": "deb0ch/toorkit",
           "description": null,
           "children": [],
           "repo_info": {
@@ -617,7 +617,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/gianlucaborello/libprocesshider",
+          "title": "gianlucaborello/libprocesshider",
           "description": null,
           "children": [],
           "repo_info": {
@@ -632,7 +632,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/MatheuZSecurity/Rootkit",
+          "title": "MatheuZSecurity/Rootkit",
           "description": null,
           "children": [],
           "repo_info": {
@@ -647,7 +647,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/landhb/DrawBridge",
+          "title": "landhb/DrawBridge",
           "description": null,
           "children": [],
           "repo_info": {
@@ -662,7 +662,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/spiderpig1297/kprochide",
+          "title": "spiderpig1297/kprochide",
           "description": null,
           "children": [],
           "repo_info": {
@@ -677,7 +677,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/spiderpig1297/kfile-over-icmp",
+          "title": "spiderpig1297/kfile-over-icmp",
           "description": null,
           "children": [],
           "repo_info": {
@@ -692,7 +692,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/spiderpig1297/kunkillable",
+          "title": "spiderpig1297/kunkillable",
           "description": null,
           "children": [],
           "repo_info": {
@@ -713,7 +713,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/CISOfy/lynis",
+          "title": "CISOfy/lynis",
           "description": null,
           "children": [],
           "repo_info": {
@@ -723,12 +723,12 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16222
+            "stars": 16224
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/draios/sysdig",
+          "title": "draios/sysdig",
           "description": null,
           "children": [],
           "repo_info": {
@@ -743,7 +743,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ossec/ossec-hids",
+          "title": "ossec/ossec-hids",
           "description": null,
           "children": [],
           "repo_info": {
@@ -758,7 +758,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Sysinternals/SysmonForLinux",
+          "title": "microsoft/SysmonForLinux",
           "description": null,
           "children": [],
           "repo_info": {
@@ -768,12 +768,12 @@
             "last_commit": "2026-07-13T23:10:10Z",
             "owner": "microsoft",
             "repo": "SysmonForLinux",
-            "stars": 2152
+            "stars": 2153
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/al0ne/LinuxCheck",
+          "title": "al0ne/LinuxCheck",
           "description": null,
           "children": [],
           "repo_info": {
@@ -788,7 +788,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/bad-antics/rupurt",
+          "title": "bad-antics/rupurt",
           "description": null,
           "children": [],
           "repo_info": {
@@ -806,7 +806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:18:04.400Z",
+    "last_updated": "2026-08-25T05:57:08.023Z",
     "original_repository": "milabs/awesome-linux-rootkits",
     "original_repository_id": 139235277,
     "original_repository_sha": "e262bb14aba19fef67746e998e376bead935fbe5",
