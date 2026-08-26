@@ -30,7 +30,7 @@
             "last_commit": "2024-03-07T22:27:51Z",
             "owner": "chokepoint",
             "repo": "azazel",
-            "stars": 805
+            "stars": 806
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-06-11T17:22:31Z",
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1734
+            "stars": 1735
           }
         },
         {
@@ -723,7 +723,7 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16224
+            "stars": 16229
           }
         },
         {
@@ -750,10 +750,10 @@
             "archived": false,
             "id": 12901559,
             "language": "C",
-            "last_commit": "2026-08-12T20:55:11Z",
+            "last_commit": "2026-08-25T14:40:59Z",
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5046
+            "stars": 5047
           }
         },
         {
@@ -806,7 +806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:57:08.023Z",
+    "last_updated": "2026-08-26T02:24:46.233Z",
     "original_repository": "milabs/awesome-linux-rootkits",
     "original_repository_id": 139235277,
     "original_repository_sha": "e262bb14aba19fef67746e998e376bead935fbe5",
