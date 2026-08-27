@@ -15,7 +15,7 @@
             "last_commit": "2020-12-11T19:37:00Z",
             "owner": "mempodippy",
             "repo": "vlany",
-            "stars": 985
+            "stars": 987
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-03-07T22:27:51Z",
             "owner": "chokepoint",
             "repo": "azazel",
-            "stars": 806
+            "stars": 807
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-17T16:08:57Z",
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2718
+            "stars": 2719
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-04-27T07:51:50Z",
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2442
+            "stars": 2444
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-06-11T17:22:31Z",
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1735
+            "stars": 1736
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2019-08-02T14:28:28Z",
             "owner": "gianlucaborello",
             "repo": "libprocesshider",
-            "stars": 1130
+            "stars": 1131
           }
         },
         {
@@ -723,7 +723,7 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16229
+            "stars": 16240
           }
         },
         {
@@ -750,7 +750,7 @@
             "archived": false,
             "id": 12901559,
             "language": "C",
-            "last_commit": "2026-08-25T14:40:59Z",
+            "last_commit": "2026-08-26T19:38:32Z",
             "owner": "ossec",
             "repo": "ossec-hids",
             "stars": 5047
@@ -806,9 +806,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:24:46.233Z",
-    "original_repository": "milabs/awesome-linux-rootkits",
-    "original_repository_id": 139235277,
+    "last_updated": "2026-08-27T10:57:44.248Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 139235277,
+      "language": null,
+      "last_commit": "2026-02-15T02:29:01Z",
+      "owner": "milabs",
+      "repo": "awesome-linux-rootkits",
+      "stars": 2094
+    },
     "original_repository_sha": "e262bb14aba19fef67746e998e376bead935fbe5",
     "enhanced_repository": "enhansome/enhansome-linux-rootkits",
     "enhanced_repository_description": null,
