@@ -16,7 +16,8 @@
             "owner": "mempodippy",
             "repo": "vlany",
             "stars": 987
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "chokepoint",
             "repo": "azazel",
             "stars": 807
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "unix-thrust",
             "repo": "beurk",
             "stars": 387
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "chokepoint",
             "repo": "Jynx2",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "NexusBots",
             "repo": "Umbreon-Rootkit",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "chokepoint",
             "repo": "jynxkit",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "ChristianPapathanasiou",
             "repo": "apache-rootkit",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         }
       ],
       "title": ":see_no_evil: user mode rootkits"
@@ -126,8 +133,9 @@
             "last_commit": "2026-08-17T16:08:57Z",
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2719
-          }
+            "stars": 2720
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -141,8 +149,9 @@
             "last_commit": "2026-04-27T07:51:50Z",
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2444
-          }
+            "stars": 2446
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "h3xduck",
             "repo": "TripleCross",
             "stars": 1977
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
             "stars": 1736
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "krisnova",
             "repo": "boopkit",
             "stars": 1677
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -201,8 +213,9 @@
             "last_commit": "2024-04-07T03:35:41Z",
             "owner": "nurupo",
             "repo": "rootkit",
-            "stars": 827
-          }
+            "stars": 828
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "mncoppola",
             "repo": "suterusu",
             "stars": 685
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "jarun",
             "repo": "spy",
             "stars": 682
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "carloslack",
             "repo": "KoviD",
             "stars": 655
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "NoviceLive",
             "repo": "research-rootkit",
             "stars": 600
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -276,8 +293,9 @@
             "last_commit": "2024-07-29T13:49:45Z",
             "owner": "ivyl",
             "repo": "rootkit",
-            "stars": 404
-          }
+            "stars": 405
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "trailofbits",
             "repo": "krf",
             "stars": 360
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "reveng007",
             "repo": "reveng_rtkit",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "yaoyumeng",
             "repo": "adore-ng",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "croemheld",
             "repo": "lkm-rootkit",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "Eterna1",
             "repo": "puszek-rootkit",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "h3xduck",
             "repo": "Umbra",
             "stars": 136
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "jermeyyy",
             "repo": "rooty",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "QuokkaLight",
             "repo": "rkduck",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "therealdreg",
             "repo": "enyelkm",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "PinkP4nther",
             "repo": "Sutekh",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "milabs",
             "repo": "kopycat",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "bones-codes",
             "repo": "the_colonel",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "mponcet",
             "repo": "subversive",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "ait-aecid",
             "repo": "caraxes",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "hanj4096",
             "repo": "wukong",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "a7vinx",
             "repo": "liinux",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "kacheo",
             "repo": "KernelRootkit",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "dsmatter",
             "repo": "brootus",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -562,7 +598,8 @@
             "owner": "vrasneur",
             "repo": "randkit",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -577,7 +614,8 @@
             "owner": "En14c",
             "repo": "LilyOfTheValley",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -592,7 +630,8 @@
             "owner": "NinnOgTonic",
             "repo": "Out-of-Sight-Out-of-Mind-Rootkit",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -607,7 +646,8 @@
             "owner": "deb0ch",
             "repo": "toorkit",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         }
       ],
       "title": ":hear_no_evil: kernel mode rootkits"
@@ -628,7 +668,8 @@
             "owner": "gianlucaborello",
             "repo": "libprocesshider",
             "stars": 1131
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -643,7 +684,8 @@
             "owner": "MatheuZSecurity",
             "repo": "Rootkit",
             "stars": 221
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -658,7 +700,8 @@
             "owner": "landhb",
             "repo": "DrawBridge",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -673,7 +716,8 @@
             "owner": "spiderpig1297",
             "repo": "kprochide",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -688,7 +732,8 @@
             "owner": "spiderpig1297",
             "repo": "kfile-over-icmp",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -703,7 +748,8 @@
             "owner": "spiderpig1297",
             "repo": "kunkillable",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         }
       ],
       "title": ":speak_no_evil: related stuff"
@@ -723,8 +769,9 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16240
-          }
+            "stars": 16250
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -739,7 +786,8 @@
             "owner": "draios",
             "repo": "sysdig",
             "stars": 8290
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -754,7 +802,8 @@
             "owner": "ossec",
             "repo": "ossec-hids",
             "stars": 5047
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -769,7 +818,8 @@
             "owner": "microsoft",
             "repo": "SysmonForLinux",
             "stars": 2153
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -783,8 +833,9 @@
             "last_commit": "2024-06-19T02:13:41Z",
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2096
-          }
+            "stars": 2097
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         },
         {
           "node_type": "item",
@@ -799,14 +850,15 @@
             "owner": "bad-antics",
             "repo": "rupurt",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         }
       ],
       "title": ":mag: detection tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:48:19.882Z",
+    "last_updated": "2026-08-28T12:33:08.860Z",
     "original_repository_info": {
       "archived": false,
       "id": 139235277,
@@ -814,7 +866,7 @@
       "last_commit": "2026-02-15T02:29:01Z",
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2094
+      "stars": 2096
     },
     "original_repository_sha": "e262bb14aba19fef67746e998e376bead935fbe5",
     "enhanced_repository": "enhansome/enhansome-linux-rootkits",
