@@ -76,7 +76,7 @@ Additional functions:
 
   A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 
-* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,736 | 🐛 1 | 🌐 C | 📅 2026-06-11
+* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,737 | 🐛 1 | 🌐 C | 📅 2026-06-11
 
   Singularity is a powerful Linux Kernel Module (LKM) rootkit designed for modern 6.x kernels. It provides comprehensive stealth capabilities through advanced system call hooking via ftrace infrastructure.
 
@@ -244,7 +244,7 @@ Additional functions:
 
 Tools for detecting and analyzing rootkits:
 
-* <https://github.com/CISOfy/lynis> ⭐ 16,250 | 🐛 219 | 🌐 Shell | 📅 2026-08-05
+* <https://github.com/CISOfy/lynis> ⭐ 16,252 | 🐛 219 | 🌐 Shell | 📅 2026-08-05
 
   Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems with rootkit scanning.
 
@@ -252,7 +252,7 @@ Tools for detecting and analyzing rootkits:
 
   Sysdig - Linux system exploration and troubleshooting tool with container support, useful for rootkit analysis.
 
-* <https://github.com/ossec/ossec-hids> ⭐ 5,047 | 🐛 124 | 🌐 C | 📅 2026-08-26
+* <https://github.com/ossec/ossec-hids> ⭐ 5,048 | 🐛 124 | 🌐 C | 📅 2026-08-26
 
   OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
 
@@ -278,4 +278,4 @@ Tools for detecting and analyzing rootkits:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

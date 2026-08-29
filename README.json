@@ -10,12 +10,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux LD_PRELOAD rootkit (x86 and x86_64 architectures)",
+            "homepage": null,
             "id": 72287867,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2020-12-11T19:37:00Z",
+            "open_issues": 13,
             "owner": "mempodippy",
             "repo": "vlany",
-            "stars": 987
+            "stars": 987,
+            "topics": [
+              "c",
+              "cli",
+              "debian",
+              "dynamic",
+              "ldpreload",
+              "libc",
+              "libdl",
+              "libpam",
+              "libpcap",
+              "library",
+              "libssl",
+              "linker",
+              "linux",
+              "preload",
+              "reboot",
+              "rootkit",
+              "shared",
+              "tui",
+              "userland"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -26,12 +51,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Azazel is a userland rootkit based off of the original LD_PRELOAD technique from Jynx rootkit.  It is more robust and has additional features, and focuses heavily around anti-debugging and anti-detection.",
+            "homepage": null,
             "id": 16822617,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2024-03-07T22:27:51Z",
+            "open_issues": 7,
             "owner": "chokepoint",
             "repo": "azazel",
-            "stars": 807
+            "stars": 807,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -42,12 +72,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BEURK Experimental Unix RootKit",
+            "homepage": null,
             "id": 33940242,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2017-04-28T12:16:07Z",
+            "open_issues": 36,
             "owner": "unix-thrust",
             "repo": "beurk",
-            "stars": 387
+            "stars": 387,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -58,12 +93,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JynxKit2 is an LD_PRELOAD userland rootkit based on the original JynxKit. The backdoor has been replaced with an \"accept()\" system hook.",
+            "homepage": null,
             "id": 7177909,
             "language": "C",
+            "license": null,
             "last_commit": "2012-12-15T09:57:08Z",
+            "open_issues": 0,
             "owner": "chokepoint",
             "repo": "Jynx2",
-            "stars": 183
+            "stars": 183,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -74,12 +114,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 70885618,
             "language": "C",
+            "license": null,
             "last_commit": "2016-11-15T17:14:13Z",
+            "open_issues": 1,
             "owner": "NexusBots",
             "repo": "Umbreon-Rootkit",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -90,12 +135,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JynxKit is an LD_PRELOAD userland rootkit for Linux systems with reverse connection SSL backdoor",
+            "homepage": null,
             "id": 7177851,
             "language": "C",
+            "license": null,
             "last_commit": "2012-12-15T09:52:59Z",
+            "open_issues": 0,
             "owner": "chokepoint",
             "repo": "jynxkit",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -106,12 +156,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1046490132,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-28T19:05:11Z",
+            "open_issues": 0,
             "owner": "ChristianPapathanasiou",
             "repo": "apache-rootkit",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         }
@@ -128,12 +183,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LKM Linux rootkit",
+            "homepage": null,
             "id": 107891179,
             "language": "C",
+            "license": null,
             "last_commit": "2026-08-17T16:08:57Z",
+            "open_issues": 31,
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2720
+            "stars": 2720,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -144,12 +204,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)",
+            "homepage": null,
             "id": 14187797,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-27T07:51:50Z",
+            "open_issues": 12,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2446
+            "stars": 2446,
+            "topics": [
+              "advanced-persistent-threat",
+              "backdoor",
+              "c",
+              "hacking",
+              "hacking-tool",
+              "kernel",
+              "kernel-module",
+              "linux",
+              "linux-kernel",
+              "lkm-rootkit",
+              "malware",
+              "pentest",
+              "pentesting",
+              "redteam",
+              "redteaming",
+              "rootkit",
+              "security",
+              "security-audit",
+              "security-tools",
+              "stealth"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -160,12 +246,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.",
+            "homepage": null,
             "id": 421918747,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2024-04-07T02:06:19Z",
+            "open_issues": 19,
             "owner": "h3xduck",
             "repo": "TripleCross",
-            "stars": 1977
+            "stars": 1977,
+            "topics": [
+              "backdoor",
+              "ebpf",
+              "kernel",
+              "libbpf",
+              "rootkit",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -176,12 +274,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stealthy Linux Kernel Rootkit for modern kernels (6x)",
+            "homepage": null,
             "id": 1062196393,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-06-11T17:22:31Z",
+            "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1736
+            "stars": 1737,
+            "topics": [
+              "ftrace",
+              "hidden",
+              "hooking",
+              "kernel",
+              "linux",
+              "lkm",
+              "poc",
+              "rootkit",
+              "syscall"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -192,12 +305,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin.",
+            "homepage": null,
             "id": 475870202,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-19T07:43:18Z",
+            "open_issues": 13,
             "owner": "krisnova",
             "repo": "boopkit",
-            "stars": 1677
+            "stars": 1677,
+            "topics": [
+              "ebpf",
+              "linux-kernel-hacking",
+              "security",
+              "tcp"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -208,12 +331,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux rootkit for Ubuntu 16.04 and 10.04 (Linux Kernels 4.4.0 and 2.6.32), both i386 and amd64",
+            "homepage": null,
             "id": 79993552,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2024-04-07T03:35:41Z",
+            "open_issues": 1,
             "owner": "nurupo",
             "repo": "rootkit",
-            "stars": 828
+            "stars": 828,
+            "topics": [
+              "kernel-module",
+              "linux-kernel-module",
+              "linux-rootkit",
+              "rootkit"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -224,12 +357,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An LKM rootkit targeting Linux 2.6/3.x on x86(_64), and ARM",
+            "homepage": null,
             "id": 13511819,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2017-11-21T10:17:53Z",
+            "open_issues": 5,
             "owner": "mncoppola",
             "repo": "suterusu",
-            "stars": 685
+            "stars": 685,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -240,12 +378,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":eyes: Linux kernel mode debugfs keylogger",
+            "homepage": null,
             "id": 43768891,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2022-04-15T12:09:09Z",
+            "open_issues": 0,
             "owner": "jarun",
             "repo": "spy",
-            "stars": 682
+            "stars": 682,
+            "topics": [
+              "debugfs",
+              "kernel",
+              "kernel-module",
+              "kernel-programming",
+              "keylogger",
+              "linux-kernel",
+              "linux-kernel-module",
+              "linux-keylogger"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -256,12 +408,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Red-Team LKM",
+            "homepage": null,
             "id": 476709450,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-31T15:05:07Z",
+            "open_issues": 7,
             "owner": "carloslack",
             "repo": "KoviD",
-            "stars": 655
+            "stars": 655,
+            "topics": [
+              "assembly",
+              "backdoor",
+              "bpf",
+              "bpf-maps",
+              "c",
+              "cmake",
+              "firewall-bypass",
+              "for-educational-purposes-only",
+              "kernel",
+              "linux",
+              "llvm",
+              "module",
+              "red-team",
+              "rootkit",
+              "rust",
+              "ssh",
+              "tasks",
+              "tty",
+              "ubuntu",
+              "x64"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -272,12 +450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LibZeroEvil & the Research Rootkit project.",
+            "homepage": null,
             "id": 59925167,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2021-12-01T14:03:07Z",
+            "open_issues": 4,
             "owner": "NoviceLive",
             "repo": "research-rootkit",
-            "stars": 600
+            "stars": 600,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -288,12 +471,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample Rootkit for Linux",
+            "homepage": null,
             "id": 3113640,
             "language": "TeX",
+            "license": null,
             "last_commit": "2024-07-29T13:49:45Z",
+            "open_issues": 0,
             "owner": "ivyl",
             "repo": "rootkit",
-            "stars": 405
+            "stars": 405,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -304,12 +492,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kernelspace syscall interceptor and randomized faulter",
+            "homepage": "https://blog.trailofbits.com/2019/01/17/how-to-write-a-rootkit-without-really-trying/",
             "id": 162038180,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2024-11-18T19:00:46Z",
+            "open_issues": 12,
             "owner": "trailofbits",
             "repo": "krf",
-            "stars": 360
+            "stars": 360,
+            "topics": [
+              "fault-injection",
+              "freebsd",
+              "hacktoberfest",
+              "linux-kernel",
+              "syscalls"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -320,12 +519,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit.",
+            "homepage": "https://reveng007.github.io/blog/2022/03/08/reveng_rkit_detailed.html",
             "id": 462661938,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2025-12-06T07:58:12Z",
+            "open_issues": 11,
             "owner": "reveng007",
             "repo": "reveng_rtkit",
-            "stars": 274
+            "stars": 274,
+            "topics": [
+              "antirootkit-bypass",
+              "backdoor",
+              "c",
+              "hacking-tool",
+              "hacktoberfest",
+              "kernel-mode-rootkit",
+              "linux",
+              "linux-device-driver",
+              "linux-kernel",
+              "linux-kernel-module",
+              "malware",
+              "post-exploitation-toolkit",
+              "redteam",
+              "redteam-tools",
+              "ring0",
+              "rkhunter-antirootkit",
+              "security",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -336,12 +559,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "linux rootkit adapted for 2.6 and 3.x",
+            "homepage": null,
             "id": 24480560,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2015-12-30T07:15:55Z",
+            "open_issues": 0,
             "owner": "yaoyumeng",
             "repo": "adore-ng",
-            "stars": 223
+            "stars": 223,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -352,12 +580,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A LKM rootkit for most newer kernel versions.",
+            "homepage": null,
             "id": 82727756,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2017-09-17T13:34:20Z",
+            "open_issues": 0,
             "owner": "croemheld",
             "repo": "lkm-rootkit",
-            "stars": 180
+            "stars": 180,
+            "topics": [
+              "kernel",
+              "kernel-modules",
+              "linux-kernel",
+              "rootkit"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -368,12 +606,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "linux rootkit",
+            "homepage": null,
             "id": 61206319,
             "language": "C",
+            "license": null,
             "last_commit": "2018-02-12T23:27:42Z",
+            "open_issues": 1,
             "owner": "Eterna1",
             "repo": "puszek-rootkit",
-            "stars": 162
+            "stars": 162,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -384,12 +627,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A LKM rootkit targeting 4.x and 5.x kernel versions which opens a backdoor that can spawn a reverse shell to a remote host, launch malware and more.",
+            "homepage": null,
             "id": 360331271,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2021-09-19T11:04:33Z",
+            "open_issues": 5,
             "owner": "h3xduck",
             "repo": "Umbra",
-            "stars": 136
+            "stars": 136,
+            "topics": [
+              "backdoor",
+              "kernel",
+              "kernel-module",
+              "linux-kernel",
+              "linux-kernel-module",
+              "malware",
+              "ransomware",
+              "rootkit"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -400,12 +657,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Academic project of Linux rootkit made for Bachelor Engineering Thesis.",
+            "homepage": null,
             "id": 98127893,
             "language": "C",
+            "license": "LGPL-3.0",
             "last_commit": "2026-03-27T21:14:18Z",
+            "open_issues": 1,
             "owner": "jermeyyy",
             "repo": "rooty",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "academic",
+              "bachelor-engineering-thesis",
+              "kernel",
+              "kernel-module",
+              "linux",
+              "linux-rootkit",
+              "rootkit",
+              "security",
+              "thesis"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -416,12 +688,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux v4.x.x Rootkit",
+            "homepage": null,
             "id": 49976959,
             "language": "C",
+            "license": null,
             "last_commit": "2024-07-27T10:47:12Z",
+            "open_issues": 10,
             "owner": "QuokkaLight",
             "repo": "rkduck",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "kernel",
+              "kernel-module",
+              "keylogger",
+              "linux",
+              "rootkit",
+              "stealth"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -432,12 +716,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LKM rootkit for Linux x86 with the 2.6 kernel. It inserts salts inside system_call and sysenter_entry.",
+            "homepage": "https://rootkit.es/",
             "id": 38874320,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2023-08-11T06:24:42Z",
+            "open_issues": 0,
             "owner": "therealdreg",
             "repo": "enyelkm",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "hooking",
+              "kernel-space",
+              "linux",
+              "lkm",
+              "rootkit",
+              "x86"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -448,12 +744,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example rootkit that gives a userland process root permissions",
+            "homepage": null,
             "id": 137761357,
             "language": "C",
+            "license": null,
             "last_commit": "2019-10-17T09:44:51Z",
+            "open_issues": 0,
             "owner": "PinkP4nther",
             "repo": "Sutekh",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "c",
+              "kernel",
+              "kernel-module",
+              "linux",
+              "linux-kernel",
+              "linux-shell",
+              "lkm",
+              "lkm-rootkit",
+              "proof-of-concept",
+              "root-privileges",
+              "rootkit",
+              "syscall",
+              "syscall-hook",
+              "syscall-table"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -464,12 +780,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux Kernel module-less implant (backdoor)",
+            "homepage": null,
             "id": 342968360,
             "language": "C",
+            "license": null,
             "last_commit": "2021-03-11T10:52:41Z",
+            "open_issues": 0,
             "owner": "milabs",
             "repo": "kopycat",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -480,12 +801,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an experimental linux kernel module (rootkit) with a keylogger and built-in IRC bot",
+            "homepage": "http://bones-codes.github.io/the_colonel/",
             "id": 11696868,
             "language": "Python",
+            "license": null,
             "last_commit": "2015-05-01T21:09:19Z",
+            "open_issues": 0,
             "owner": "bones-codes",
             "repo": "the_colonel",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -496,12 +822,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "x86_64 linux rootkit using debug registers",
+            "homepage": null,
             "id": 1689251,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2022-01-11T16:56:41Z",
+            "open_issues": 0,
             "owner": "mponcet",
             "repo": "subversive",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -512,12 +843,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Academic research rootkit using ftrace-hooking to hide files and processes via magic word or user/group. Tested until Linux 6.11.",
+            "homepage": null,
             "id": 877893378,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-21T09:00:38Z",
+            "open_issues": 2,
             "owner": "ait-aecid",
             "repo": "caraxes",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "file-hiding",
+              "ftrace-hooking",
+              "kernel-module",
+              "linux",
+              "linux-kernel",
+              "rootkit",
+              "stealthkit"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -528,12 +872,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A LKM rootkit for Linux kernel 2.6.x, 3.x and 4.x",
+            "homepage": null,
             "id": 54781313,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2016-04-06T16:29:30Z",
+            "open_issues": 0,
             "owner": "hanj4096",
             "repo": "wukong",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -544,12 +893,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A linux rootkit works on kernel 4.0.X or higher",
+            "homepage": null,
             "id": 61631410,
             "language": "C",
+            "license": null,
             "last_commit": "2016-06-21T12:32:40Z",
+            "open_issues": 0,
             "owner": "a7vinx",
             "repo": "liinux",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -560,12 +914,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux kernel rootkit to hide certain files and processes.",
+            "homepage": null,
             "id": 18272351,
             "language": "C",
+            "license": null,
             "last_commit": "2026-06-04T17:43:03Z",
+            "open_issues": 0,
             "owner": "kacheo",
             "repo": "KernelRootkit",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -576,12 +935,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An educational Linux Kernel Rootkit",
+            "homepage": null,
             "id": 9644966,
             "language": "C",
+            "license": null,
             "last_commit": "2021-10-03T23:45:01Z",
+            "open_issues": 0,
             "owner": "dsmatter",
             "repo": "brootus",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -592,12 +956,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Random number rootkit for the Linux kernel",
+            "homepage": null,
             "id": 51228873,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2016-03-15T21:00:03Z",
+            "open_issues": 2,
             "owner": "vrasneur",
             "repo": "randkit",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -608,12 +977,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple LKM linux kernel rootkit (x86 / x86_64)",
+            "homepage": null,
             "id": 115229079,
             "language": "C",
+            "license": null,
             "last_commit": "2020-06-16T08:21:01Z",
+            "open_issues": 1,
             "owner": "En14c",
             "repo": "LilyOfTheValley",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "c",
+              "kernel",
+              "kernel-module",
+              "linux-kernel",
+              "linux-kernel-module",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -624,12 +1005,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rootkit ",
+            "homepage": null,
             "id": 26662752,
             "language": "Python",
+            "license": null,
             "last_commit": "2014-11-15T00:00:42Z",
+            "open_issues": 0,
             "owner": "NinnOgTonic",
             "repo": "Out-of-Sight-Out-of-Mind-Rootkit",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -640,12 +1026,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple useless rootkit for the linux kernel. It is a kernel module which hooks up the open() syscall (or potentially any syscall) to replace it with a custom function.",
+            "homepage": null,
             "id": 53808318,
             "language": "C",
+            "license": null,
             "last_commit": "2016-03-13T21:21:24Z",
+            "open_issues": 0,
             "owner": "deb0ch",
             "repo": "toorkit",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         }
@@ -662,12 +1053,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hide a process under Linux using the ld preloader (https://sysdig.com/blog/hiding-linux-processes-for-fun-and-profit/)",
+            "homepage": null,
             "id": 23007645,
             "language": "C",
+            "license": null,
             "last_commit": "2019-08-02T14:28:28Z",
+            "open_issues": 11,
             "owner": "gianlucaborello",
             "repo": "libprocesshider",
-            "stars": 1131
+            "stars": 1131,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -678,12 +1074,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of codes focused on Linux rootkits",
+            "homepage": null,
             "id": 902602208,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2025-10-22T03:58:01Z",
+            "open_issues": 0,
             "owner": "MatheuZSecurity",
             "repo": "Rootkit",
-            "stars": 221
+            "stars": 221,
+            "topics": [
+              "collection",
+              "ebpf",
+              "ftrace",
+              "hooking",
+              "kernel",
+              "ldpreload",
+              "linux",
+              "malware",
+              "persistence",
+              "rootkit"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -694,12 +1106,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Layer 4 Single Packet Authentication Linux kernel module utilizing Netfilter hooks and kernel supported Berkeley Packet Filters (BPF)",
+            "homepage": null,
             "id": 122649277,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2023-10-14T22:58:51Z",
+            "open_issues": 0,
             "owner": "landhb",
             "repo": "DrawBridge",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "bpf",
+              "iptables",
+              "iptables-extension",
+              "knocker",
+              "linux-kernel",
+              "netfilter",
+              "port-knock",
+              "port-knocker",
+              "port-knocking",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -710,12 +1138,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kprochide is an LKM for hiding processes from the userland. The module is able to hide multiple processes and is able to dynamically receive new processes to hide.",
+            "homepage": null,
             "id": 298557698,
             "language": "C",
+            "license": null,
             "last_commit": "2020-10-09T04:28:50Z",
+            "open_issues": 0,
             "owner": "spiderpig1297",
             "repo": "kprochide",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "c",
+              "kernel",
+              "kernel-module",
+              "kernel-space",
+              "linux",
+              "low-level",
+              "rootkit",
+              "x86"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -726,12 +1168,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kfile-over-icmp is an LKM for stealth sending of files over ICMP communication.",
+            "homepage": null,
             "id": 299125294,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2020-10-09T12:50:35Z",
+            "open_issues": 0,
             "owner": "spiderpig1297",
             "repo": "kfile-over-icmp",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "icmp",
+              "kernel",
+              "kernel-module",
+              "kernel-space",
+              "linux",
+              "lkm",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -742,12 +1197,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kunkillable is an LKM that makes userland processes unkillable.",
+            "homepage": null,
             "id": 298875393,
             "language": "C",
+            "license": null,
             "last_commit": "2020-09-26T20:14:29Z",
+            "open_issues": 0,
             "owner": "spiderpig1297",
             "repo": "kunkillable",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "c",
+              "kernel",
+              "kernel-space",
+              "linux",
+              "linux-module",
+              "lkm",
+              "low-level",
+              "rootkit",
+              "signal-processing",
+              "x86"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         }
@@ -764,12 +1235,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",
+            "homepage": "https://cisofy.com/lynis/",
             "id": 15078635,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-05T12:12:12Z",
+            "open_issues": 219,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16250
+            "stars": 16252,
+            "topics": [
+              "auditing",
+              "compliance",
+              "devops",
+              "devops-tools",
+              "gdpr",
+              "hardening",
+              "hipaa",
+              "linux",
+              "pci-dss",
+              "security-audit",
+              "security-hardening",
+              "security-scanner",
+              "security-tools",
+              "security-vulnerability",
+              "shell",
+              "system-hardening",
+              "unix",
+              "vulnerability-assessment",
+              "vulnerability-detection",
+              "vulnerability-scanners"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -780,12 +1277,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux system exploration and troubleshooting tool with first class support for containers",
+            "homepage": "http://www.sysdig.com/",
             "id": 15926180,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-13T12:32:03Z",
+            "open_issues": 116,
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8290
+            "stars": 8290,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -796,12 +1298,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.",
+            "homepage": "http://www.ossec.net",
             "id": 12901559,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-26T19:38:32Z",
+            "open_issues": 124,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5047
+            "stars": 5048,
+            "topics": [
+              "compliance",
+              "file-integrity-management",
+              "fim",
+              "hids",
+              "intrusion-detection",
+              "loganalyzer",
+              "nist800-53",
+              "ossec",
+              "pci-dss",
+              "policy-monitoring",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -812,12 +1331,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sysmon for Linux",
+            "homepage": null,
             "id": 308092559,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-07-13T23:10:10Z",
+            "open_issues": 42,
             "owner": "microsoft",
             "repo": "SysmonForLinux",
-            "stars": 2153
+            "stars": 2153,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -828,12 +1352,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查",
+            "homepage": null,
             "id": 162132748,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-06-19T02:13:41Z",
+            "open_issues": 1,
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2097
+            "stars": 2097,
+            "topics": [
+              "check",
+              "linux",
+              "rkhunter",
+              "shell-script"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -844,12 +1378,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "☠️ rupurt — Advanced Linux rootkit hunter | 250+ signatures, eBPF kernel analysis, memory forensics, APT detection | NullSec",
+            "homepage": "https://github.com/bad-antics/nullsec",
             "id": 1143044552,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-04-16T04:43:40Z",
+            "open_issues": 1,
             "owner": "bad-antics",
             "repo": "rupurt",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "apt-detection",
+              "ebpf",
+              "forensics",
+              "linux",
+              "memory-forensics",
+              "rootkit",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         }
@@ -858,15 +1405,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:33:08.860Z",
+    "last_updated": "2026-08-29T04:26:30.004Z",
     "original_repository_info": {
       "archived": false,
+      "description": "awesome-linux-rootkits",
+      "homepage": null,
       "id": 139235277,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-02-15T02:29:01Z",
+      "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2096
+      "stars": 2096,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "linux",
+        "linux-kernel",
+        "lkm-rootkit",
+        "rootkit"
+      ]
     },
     "original_repository_sha": "e262bb14aba19fef67746e998e376bead935fbe5",
     "enhanced_repository": "enhansome/enhansome-linux-rootkits",
