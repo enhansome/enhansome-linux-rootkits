@@ -213,7 +213,7 @@
             "open_issues": 12,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2446,
+            "stars": 2447,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1737,
+            "stars": 1739,
             "topics": [
               "ftrace",
               "hidden",
@@ -1244,7 +1244,7 @@
             "open_issues": 219,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16252,
+            "stars": 16256,
             "topics": [
               "auditing",
               "compliance",
@@ -1307,7 +1307,7 @@
             "open_issues": 124,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5048,
+            "stars": 5049,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1340,7 +1340,7 @@
             "open_issues": 42,
             "owner": "microsoft",
             "repo": "SysmonForLinux",
-            "stars": 2153,
+            "stars": 2154,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1361,7 +1361,7 @@
             "open_issues": 1,
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2097,
+            "stars": 2098,
             "topics": [
               "check",
               "linux",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:42:19.129Z",
+    "last_updated": "2026-08-30T06:18:22.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
