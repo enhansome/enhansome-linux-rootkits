@@ -60,7 +60,7 @@
             "open_issues": 7,
             "owner": "chokepoint",
             "repo": "azazel",
-            "stars": 807,
+            "stars": 808,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -192,7 +192,7 @@
             "open_issues": 31,
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2724,
+            "stars": 2725,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1746,
+            "stars": 1745,
             "topics": [
               "ftrace",
               "hidden",
@@ -817,6 +817,35 @@
         },
         {
           "node_type": "item",
+          "title": "ait-aecid/caraxes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Academic research rootkit using ftrace-hooking to hide files and processes via magic word or user/group. Tested until Linux 6.11.",
+            "homepage": null,
+            "id": 877893378,
+            "language": "C",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-21T09:00:38Z",
+            "open_issues": 2,
+            "owner": "ait-aecid",
+            "repo": "caraxes",
+            "stars": 51,
+            "topics": [
+              "file-hiding",
+              "ftrace-hooking",
+              "kernel-module",
+              "linux",
+              "linux-kernel",
+              "rootkit",
+              "stealthkit"
+            ]
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
+        },
+        {
+          "node_type": "item",
           "title": "mponcet/subversive",
           "description": null,
           "children": [],
@@ -833,35 +862,6 @@
             "repo": "subversive",
             "stars": 51,
             "topics": []
-          },
-          "first_seen": "2026-08-28T12:33:08.860Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ait-aecid/caraxes",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Academic research rootkit using ftrace-hooking to hide files and processes via magic word or user/group. Tested until Linux 6.11.",
-            "homepage": null,
-            "id": 877893378,
-            "language": "C",
-            "license": "GPL-3.0",
-            "last_commit": "2026-08-21T09:00:38Z",
-            "open_issues": 2,
-            "owner": "ait-aecid",
-            "repo": "caraxes",
-            "stars": 50,
-            "topics": [
-              "file-hiding",
-              "ftrace-hooking",
-              "kernel-module",
-              "linux",
-              "linux-kernel",
-              "rootkit",
-              "stealthkit"
-            ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
         },
@@ -1062,7 +1062,7 @@
             "open_issues": 11,
             "owner": "gianlucaborello",
             "repo": "libprocesshider",
-            "stars": 1131,
+            "stars": 1132,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1244,7 +1244,7 @@
             "open_issues": 221,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16281,
+            "stars": 16286,
             "topics": [
               "auditing",
               "compliance",
@@ -1286,7 +1286,7 @@
             "open_issues": 116,
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8291,
+            "stars": 8292,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1307,7 +1307,7 @@
             "open_issues": 124,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5054,
+            "stars": 5055,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1340,7 +1340,7 @@
             "open_issues": 42,
             "owner": "microsoft",
             "repo": "SysmonForLinux",
-            "stars": 2155,
+            "stars": 2156,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T05:36:40.473Z",
+    "last_updated": "2026-09-05T05:20:06.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
