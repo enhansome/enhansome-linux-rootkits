@@ -60,7 +60,7 @@
             "open_issues": 7,
             "owner": "chokepoint",
             "repo": "azazel",
-            "stars": 808,
+            "stars": 809,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -213,7 +213,7 @@
             "open_issues": 13,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2452,
+            "stars": 2453,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -279,7 +279,7 @@
             "id": 1062196393,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-02T11:13:39Z",
+            "last_commit": "2026-09-05T22:44:13Z",
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
@@ -1244,7 +1244,7 @@
             "open_issues": 221,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16286,
+            "stars": 16292,
             "topics": [
               "auditing",
               "compliance",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T05:20:06.285Z",
+    "last_updated": "2026-09-06T05:36:15.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",

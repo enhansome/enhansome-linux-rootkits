@@ -38,7 +38,7 @@ Additional functions:
 
   Linux LD\_PRELOAD rootkit (x86 and x86\_64 architectures)
 
-* <https://github.com/chokepoint/azazel> ⭐ 808 | 🐛 7 | 🌐 C | 📅 2024-03-07
+* <https://github.com/chokepoint/azazel> ⭐ 809 | 🐛 7 | 🌐 C | 📅 2024-03-07
 
   Azazel is a userland rootkit based off of the original LD\_PRELOAD technique from Jynx rootkit.
 
@@ -68,7 +68,7 @@ Additional functions:
 
   Reptile is a LKM rootkit written for evil purposes that runs on Linux kernel 2.6.x/3.x/4.x
 
-* <https://github.com/m0nad/Diamorphine> ⭐ 2,452 | 🐛 13 | 🌐 C | 📅 2026-04-27
+* <https://github.com/m0nad/Diamorphine> ⭐ 2,453 | 🐛 13 | 🌐 C | 📅 2026-04-27
 
   LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86 and x86\_64)
 
@@ -76,7 +76,7 @@ Additional functions:
 
   A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 
-* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,745 | 🐛 1 | 🌐 C | 📅 2026-09-02
+* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,745 | 🐛 1 | 🌐 C | 📅 2026-09-05
 
   Singularity is a powerful Linux Kernel Module (LKM) rootkit designed for modern 6.x kernels. It provides comprehensive stealth capabilities through advanced system call hooking via ftrace infrastructure.
 
@@ -244,7 +244,7 @@ Additional functions:
 
 Tools for detecting and analyzing rootkits:
 
-* <https://github.com/CISOfy/lynis> ⭐ 16,286 | 🐛 221 | 🌐 Shell | 📅 2026-08-05
+* <https://github.com/CISOfy/lynis> ⭐ 16,292 | 🐛 221 | 🌐 Shell | 📅 2026-08-05
 
   Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems with rootkit scanning.
 
@@ -278,4 +278,4 @@ Tools for detecting and analyzing rootkits:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
