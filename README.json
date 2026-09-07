@@ -1244,7 +1244,7 @@
             "open_issues": 221,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16292,
+            "stars": 16297,
             "topics": [
               "auditing",
               "compliance",
@@ -1361,7 +1361,7 @@
             "open_issues": 1,
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2101,
+            "stars": 2102,
             "topics": [
               "check",
               "linux",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T05:36:15.447Z",
+    "last_updated": "2026-09-07T05:46:35.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
