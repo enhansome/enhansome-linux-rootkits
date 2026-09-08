@@ -213,7 +213,7 @@
             "open_issues": 13,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2453,
+            "stars": 2454,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -255,7 +255,7 @@
             "open_issues": 19,
             "owner": "h3xduck",
             "repo": "TripleCross",
-            "stars": 1978,
+            "stars": 1979,
             "topics": [
               "backdoor",
               "ebpf",
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1745,
+            "stars": 1747,
             "topics": [
               "ftrace",
               "hidden",
@@ -1062,7 +1062,7 @@
             "open_issues": 11,
             "owner": "gianlucaborello",
             "repo": "libprocesshider",
-            "stars": 1132,
+            "stars": 1133,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1244,7 +1244,7 @@
             "open_issues": 221,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16297,
+            "stars": 16302,
             "topics": [
               "auditing",
               "compliance",
@@ -1307,7 +1307,7 @@
             "open_issues": 124,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5055,
+            "stars": 5056,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1340,7 +1340,7 @@
             "open_issues": 42,
             "owner": "microsoft",
             "repo": "SysmonForLinux",
-            "stars": 2156,
+            "stars": 2157,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1361,7 +1361,7 @@
             "open_issues": 1,
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2102,
+            "stars": 2103,
             "topics": [
               "check",
               "linux",
@@ -1387,7 +1387,7 @@
             "open_issues": 1,
             "owner": "bad-antics",
             "repo": "rupurt",
-            "stars": 11,
+            "stars": 12,
             "topics": [
               "apt-detection",
               "ebpf",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T05:46:35.079Z",
+    "last_updated": "2026-09-08T05:40:33.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
