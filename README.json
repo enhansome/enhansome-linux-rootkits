@@ -192,7 +192,7 @@
             "open_issues": 31,
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2725,
+            "stars": 2726,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -210,7 +210,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-04-27T07:51:50Z",
-            "open_issues": 13,
+            "open_issues": 12,
             "owner": "m0nad",
             "repo": "Diamorphine",
             "stars": 2454,
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1747,
+            "stars": 1750,
             "topics": [
               "ftrace",
               "hidden",
@@ -340,7 +340,7 @@
             "open_issues": 1,
             "owner": "nurupo",
             "repo": "rootkit",
-            "stars": 828,
+            "stars": 827,
             "topics": [
               "kernel-module",
               "linux-kernel-module",
@@ -366,7 +366,7 @@
             "open_issues": 5,
             "owner": "mncoppola",
             "repo": "suterusu",
-            "stars": 685,
+            "stars": 686,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1083,7 +1083,7 @@
             "open_issues": 0,
             "owner": "MatheuZSecurity",
             "repo": "Rootkit",
-            "stars": 221,
+            "stars": 222,
             "topics": [
               "collection",
               "ebpf",
@@ -1240,11 +1240,11 @@
             "id": 15078635,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-05T12:12:12Z",
-            "open_issues": 221,
+            "last_commit": "2026-09-08T17:09:41Z",
+            "open_issues": 220,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16302,
+            "stars": 16304,
             "topics": [
               "auditing",
               "compliance",
@@ -1286,7 +1286,7 @@
             "open_issues": 116,
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8292,
+            "stars": 8290,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1340,7 +1340,7 @@
             "open_issues": 42,
             "owner": "microsoft",
             "repo": "SysmonForLinux",
-            "stars": 2157,
+            "stars": 2158,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T05:40:33.424Z",
+    "last_updated": "2026-09-09T05:46:15.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
