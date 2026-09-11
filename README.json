@@ -213,7 +213,7 @@
             "open_issues": 12,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2455,
+            "stars": 2456,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1752,
+            "stars": 1753,
             "topics": [
               "ftrace",
               "hidden",
@@ -417,7 +417,7 @@
             "open_issues": 7,
             "owner": "carloslack",
             "repo": "KoviD",
-            "stars": 655,
+            "stars": 656,
             "topics": [
               "assembly",
               "backdoor",
@@ -1083,7 +1083,7 @@
             "open_issues": 0,
             "owner": "MatheuZSecurity",
             "repo": "Rootkit",
-            "stars": 222,
+            "stars": 223,
             "topics": [
               "collection",
               "ebpf",
@@ -1244,7 +1244,7 @@
             "open_issues": 219,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16308,
+            "stars": 16315,
             "topics": [
               "auditing",
               "compliance",
@@ -1336,7 +1336,7 @@
             "id": 308092559,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-09T14:54:26Z",
+            "last_commit": "2026-09-10T17:37:40Z",
             "open_issues": 41,
             "owner": "microsoft",
             "repo": "SysmonForLinux",
@@ -1361,7 +1361,7 @@
             "open_issues": 1,
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2103,
+            "stars": 2104,
             "topics": [
               "check",
               "linux",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T05:40:42.851Z",
+    "last_updated": "2026-09-11T05:40:11.683Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
