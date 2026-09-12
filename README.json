@@ -213,7 +213,7 @@
             "open_issues": 12,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2456,
+            "stars": 2455,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1753,
+            "stars": 1755,
             "topics": [
               "ftrace",
               "hidden",
@@ -387,7 +387,7 @@
             "open_issues": 0,
             "owner": "jarun",
             "repo": "spy",
-            "stars": 682,
+            "stars": 683,
             "topics": [
               "debugfs",
               "kernel",
@@ -1083,7 +1083,7 @@
             "open_issues": 0,
             "owner": "MatheuZSecurity",
             "repo": "Rootkit",
-            "stars": 223,
+            "stars": 224,
             "topics": [
               "collection",
               "ebpf",
@@ -1241,10 +1241,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-09-09T06:55:16Z",
-            "open_issues": 219,
+            "open_issues": 221,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16315,
+            "stars": 16318,
             "topics": [
               "auditing",
               "compliance",
@@ -1307,7 +1307,7 @@
             "open_issues": 124,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5056,
+            "stars": 5057,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1340,7 +1340,7 @@
             "open_issues": 41,
             "owner": "microsoft",
             "repo": "SysmonForLinux",
-            "stars": 2158,
+            "stars": 2159,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1361,7 +1361,7 @@
             "open_issues": 1,
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2104,
+            "stars": 2102,
             "topics": [
               "check",
               "linux",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T05:40:11.683Z",
+    "last_updated": "2026-09-12T05:27:34.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
