@@ -76,7 +76,7 @@ Additional functions:
 
   A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 
-* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,755 | 🐛 1 | 🌐 C | 📅 2026-09-05
+* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,756 | 🐛 1 | 🌐 C | 📅 2026-09-05
 
   Singularity is a powerful Linux Kernel Module (LKM) rootkit designed for modern 6.x kernels. It provides comprehensive stealth capabilities through advanced system call hooking via ftrace infrastructure.
 
@@ -100,7 +100,7 @@ Additional functions:
 
   Linux 4.18+ rootkit with multiple reverse backdoors, task management, CPU usage hiding, stealth techniques, ELF infection and evasion from anti-rooktiks based on eBPF.
 
-* <https://github.com/NoviceLive/research-rootkit> ⭐ 600 | 🐛 4 | 🌐 C | 📅 2021-12-01
+* <https://github.com/NoviceLive/research-rootkit> ⭐ 601 | 🐛 4 | 🌐 C | 📅 2021-12-01
 
   This is LibZeroEvil & the Research Rootkit project, in which there are step-by-step, experiment-based courses that help to get you started and keep your hands dirty with offensive or defensive development in the Linux kernel (LibZeroEvil).
 
@@ -244,11 +244,11 @@ Additional functions:
 
 Tools for detecting and analyzing rootkits:
 
-* <https://github.com/CISOfy/lynis> ⭐ 16,318 | 🐛 221 | 🌐 Shell | 📅 2026-09-09
+* <https://github.com/CISOfy/lynis> ⭐ 16,322 | 🐛 221 | 🌐 Shell | 📅 2026-09-09
 
   Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems with rootkit scanning.
 
-* <https://github.com/draios/sysdig> ⭐ 8,290 | 🐛 116 | 🌐 C++ | 📅 2026-04-13
+* <https://github.com/draios/sysdig> ⭐ 8,292 | 🐛 116 | 🌐 C++ | 📅 2026-04-13
 
   Sysdig - Linux system exploration and troubleshooting tool with container support, useful for rootkit analysis.
 
@@ -278,4 +278,4 @@ Tools for detecting and analyzing rootkits:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._

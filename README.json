@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1755,
+            "stars": 1756,
             "topics": [
               "ftrace",
               "hidden",
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "NoviceLive",
             "repo": "research-rootkit",
-            "stars": 600,
+            "stars": 601,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1244,7 +1244,7 @@
             "open_issues": 221,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16318,
+            "stars": 16322,
             "topics": [
               "auditing",
               "compliance",
@@ -1286,7 +1286,7 @@
             "open_issues": 116,
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8290,
+            "stars": 8292,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T05:27:34.244Z",
+    "last_updated": "2026-09-13T05:43:25.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
