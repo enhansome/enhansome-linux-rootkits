@@ -192,7 +192,7 @@
             "open_issues": 31,
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2729,
+            "stars": 2727,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -255,7 +255,7 @@
             "open_issues": 19,
             "owner": "h3xduck",
             "repo": "TripleCross",
-            "stars": 1979,
+            "stars": 1980,
             "topics": [
               "backdoor",
               "ebpf",
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1757,
+            "stars": 1758,
             "topics": [
               "ftrace",
               "hidden",
@@ -314,7 +314,7 @@
             "open_issues": 13,
             "owner": "krisnova",
             "repo": "boopkit",
-            "stars": 1677,
+            "stars": 1676,
             "topics": [
               "ebpf",
               "linux-kernel-hacking",
@@ -528,7 +528,7 @@
             "open_issues": 11,
             "owner": "reveng007",
             "repo": "reveng_rtkit",
-            "stars": 274,
+            "stars": 273,
             "topics": [
               "antirootkit-bypass",
               "backdoor",
@@ -1062,7 +1062,7 @@
             "open_issues": 11,
             "owner": "gianlucaborello",
             "repo": "libprocesshider",
-            "stars": 1133,
+            "stars": 1132,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1241,10 +1241,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-09-09T06:55:16Z",
-            "open_issues": 224,
+            "open_issues": 225,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16334,
+            "stars": 16343,
             "topics": [
               "auditing",
               "compliance",
@@ -1303,11 +1303,11 @@
             "id": 12901559,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-26T19:38:32Z",
-            "open_issues": 125,
+            "last_commit": "2026-09-15T16:21:04Z",
+            "open_issues": 126,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5058,
+            "stars": 5057,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1340,7 +1340,7 @@
             "open_issues": 41,
             "owner": "microsoft",
             "repo": "SysmonForLinux",
-            "stars": 2160,
+            "stars": 2159,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1361,7 +1361,7 @@
             "open_issues": 1,
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2102,
+            "stars": 2103,
             "topics": [
               "check",
               "linux",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T05:55:37.118Z",
+    "last_updated": "2026-09-16T05:41:56.808Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
@@ -1417,7 +1417,7 @@
       "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2100,
+      "stars": 2098,
       "topics": [
         "awesome",
         "awesome-list",

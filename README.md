@@ -64,7 +64,7 @@ Additional functions:
 
 ## :hear\_no\_evil: kernel mode rootkits
 
-* <https://github.com/f0rb1dd3n/Reptile> ⭐ 2,729 | 🐛 31 | 🌐 C | 📅 2026-08-17 :zap: [details](details/reptile.md) :zap:
+* <https://github.com/f0rb1dd3n/Reptile> ⭐ 2,727 | 🐛 31 | 🌐 C | 📅 2026-08-17 :zap: [details](details/reptile.md) :zap:
 
   Reptile is a LKM rootkit written for evil purposes that runs on Linux kernel 2.6.x/3.x/4.x
 
@@ -72,15 +72,15 @@ Additional functions:
 
   LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86 and x86\_64)
 
-* <https://github.com/h3xduck/TripleCross> ⭐ 1,979 | 🐛 19 | 🌐 C | 📅 2024-04-07
+* <https://github.com/h3xduck/TripleCross> ⭐ 1,980 | 🐛 19 | 🌐 C | 📅 2024-04-07
 
   A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 
-* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,757 | 🐛 1 | 🌐 C | 📅 2026-09-05
+* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,758 | 🐛 1 | 🌐 C | 📅 2026-09-05
 
   Singularity is a powerful Linux Kernel Module (LKM) rootkit designed for modern 6.x kernels. It provides comprehensive stealth capabilities through advanced system call hooking via ftrace infrastructure.
 
-* <https://github.com/kris-nova/boopkit> ⭐ 1,677 | 🐛 13 | 🌐 C | 📅 2023-10-19
+* <https://github.com/kris-nova/boopkit> ⭐ 1,676 | 🐛 13 | 🌐 C | 📅 2023-10-19
 
   Linux backdoor, rootkit, and eBPF bypass tools. Remote command execution over raw TCP.
 
@@ -112,7 +112,7 @@ Additional functions:
 
   A kernelspace randomized syscall faulter for Linux 4.15+
 
-* <https://github.com/reveng007/reveng_rtkit> ⭐ 274 | 🐛 11 | 🌐 C | 📅 2025-12-06
+* <https://github.com/reveng007/reveng_rtkit> ⭐ 273 | 🐛 11 | 🌐 C | 📅 2025-12-06
 
   Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter antirootkit.
 
@@ -212,7 +212,7 @@ Additional functions:
 
 ## :speak\_no\_evil: related stuff
 
-* <https://github.com/gianlucaborello/libprocesshider> ⭐ 1,133 | 🐛 11 | 🌐 C | 📅 2019-08-02
+* <https://github.com/gianlucaborello/libprocesshider> ⭐ 1,132 | 🐛 11 | 🌐 C | 📅 2019-08-02
 
   Hide a process under Linux using the ld preloader
 
@@ -244,7 +244,7 @@ Additional functions:
 
 Tools for detecting and analyzing rootkits:
 
-* <https://github.com/CISOfy/lynis> ⭐ 16,334 | 🐛 224 | 🌐 Shell | 📅 2026-09-09
+* <https://github.com/CISOfy/lynis> ⭐ 16,343 | 🐛 225 | 🌐 Shell | 📅 2026-09-09
 
   Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems with rootkit scanning.
 
@@ -252,15 +252,15 @@ Tools for detecting and analyzing rootkits:
 
   Sysdig - Linux system exploration and troubleshooting tool with container support, useful for rootkit analysis.
 
-* <https://github.com/ossec/ossec-hids> ⭐ 5,058 | 🐛 125 | 🌐 C | 📅 2026-08-26
+* <https://github.com/ossec/ossec-hids> ⭐ 5,057 | 🐛 126 | 🌐 C | 📅 2026-09-15
 
   OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
 
-* <https://github.com/Sysinternals/SysmonForLinux> ⭐ 2,160 | 🐛 41 | 🌐 C | 📅 2026-09-14
+* <https://github.com/Sysinternals/SysmonForLinux> ⭐ 2,159 | 🐛 41 | 🌐 C | 📅 2026-09-14
 
   Sysmon For Linux - system monitoring tool that logs security-relevant events.
 
-* <https://github.com/al0ne/LinuxCheck> ⭐ 2,102 | 🐛 1 | 🌐 Shell | 📅 2024-06-19
+* <https://github.com/al0ne/LinuxCheck> ⭐ 2,103 | 🐛 1 | 🌐 Shell | 📅 2024-06-19
 
   Linux emergency response and security check tool with rootkit detection capabilities.
 
@@ -278,4 +278,4 @@ Tools for detecting and analyzing rootkits:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
