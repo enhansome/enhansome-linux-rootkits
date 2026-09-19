@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "mempodippy",
             "repo": "vlany",
-            "stars": 986,
+            "stars": 987,
             "topics": [
               "c",
               "cli",
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1761,
+            "stars": 1764,
             "topics": [
               "ftrace",
               "hidden",
@@ -1062,7 +1062,7 @@
             "open_issues": 11,
             "owner": "gianlucaborello",
             "repo": "libprocesshider",
-            "stars": 1132,
+            "stars": 1133,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1244,7 +1244,7 @@
             "open_issues": 222,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16356,
+            "stars": 16359,
             "topics": [
               "auditing",
               "compliance",
@@ -1286,7 +1286,7 @@
             "open_issues": 117,
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8293,
+            "stars": 8294,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1340,7 +1340,7 @@
             "open_issues": 41,
             "owner": "microsoft",
             "repo": "SysmonForLinux",
-            "stars": 2159,
+            "stars": 2160,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T05:36:18.590Z",
+    "last_updated": "2026-09-19T05:32:16.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
@@ -1417,7 +1417,7 @@
       "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2099,
+      "stars": 2101,
       "topics": [
         "awesome",
         "awesome-list",
