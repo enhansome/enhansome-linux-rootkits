@@ -213,7 +213,7 @@
             "open_issues": 12,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2459,
+            "stars": 2460,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -274,7 +274,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Stealthy Linux Kernel Rootkit for modern kernels (6x)",
+            "description": "Stealthy Linux Kernel Rootkit",
             "homepage": null,
             "id": 1062196393,
             "language": "C",
@@ -366,7 +366,7 @@
             "open_issues": 5,
             "owner": "mncoppola",
             "repo": "suterusu",
-            "stars": 685,
+            "stars": 686,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -568,7 +568,7 @@
             "open_issues": 0,
             "owner": "yaoyumeng",
             "repo": "adore-ng",
-            "stars": 223,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T05:32:16.077Z",
+    "last_updated": "2026-09-20T05:49:16.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
