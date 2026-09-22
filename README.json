@@ -192,7 +192,7 @@
             "open_issues": 31,
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2729,
+            "stars": 2730,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -213,7 +213,7 @@
             "open_issues": 12,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2460,
+            "stars": 2459,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -279,7 +279,7 @@
             "id": 1062196393,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-16T16:30:40Z",
+            "last_commit": "2026-09-21T15:05:13Z",
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
@@ -314,7 +314,7 @@
             "open_issues": 13,
             "owner": "krisnova",
             "repo": "boopkit",
-            "stars": 1676,
+            "stars": 1677,
             "topics": [
               "ebpf",
               "linux-kernel-hacking",
@@ -1244,7 +1244,7 @@
             "open_issues": 222,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16364,
+            "stars": 16363,
             "topics": [
               "auditing",
               "compliance",
@@ -1307,7 +1307,7 @@
             "open_issues": 125,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5057,
+            "stars": 5055,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1340,7 +1340,7 @@
             "open_issues": 41,
             "owner": "microsoft",
             "repo": "SysmonForLinux",
-            "stars": 2160,
+            "stars": 2159,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T05:58:02.914Z",
+    "last_updated": "2026-09-22T05:54:38.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
