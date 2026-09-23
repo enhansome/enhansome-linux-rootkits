@@ -64,7 +64,7 @@ Additional functions:
 
 ## :hear\_no\_evil: kernel mode rootkits
 
-* <https://github.com/f0rb1dd3n/Reptile> ⭐ 2,730 | 🐛 31 | 🌐 C | 📅 2026-08-17 :zap: [details](details/reptile.md) :zap:
+* <https://github.com/f0rb1dd3n/Reptile> ⭐ 2,732 | 🐛 31 | 🌐 C | 📅 2026-08-17 :zap: [details](details/reptile.md) :zap:
 
   Reptile is a LKM rootkit written for evil purposes that runs on Linux kernel 2.6.x/3.x/4.x
 
@@ -76,11 +76,11 @@ Additional functions:
 
   A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 
-* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,766 | 🐛 1 | 🌐 C | 📅 2026-09-21
+* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,768 | 🐛 1 | 🌐 C | 📅 2026-09-21
 
   Singularity is a powerful Linux Kernel Module (LKM) rootkit designed for modern 6.x kernels. It provides comprehensive stealth capabilities through advanced system call hooking via ftrace infrastructure.
 
-* <https://github.com/kris-nova/boopkit> ⭐ 1,677 | 🐛 13 | 🌐 C | 📅 2023-10-19
+* <https://github.com/kris-nova/boopkit> ⭐ 1,678 | 🐛 13 | 🌐 C | 📅 2023-10-19
 
   Linux backdoor, rootkit, and eBPF bypass tools. Remote command execution over raw TCP.
 
@@ -88,7 +88,7 @@ Additional functions:
 
   Linux rootkit for Ubuntu 16.04 and 10.04 (Linux Kernels 4.4.0 and 2.6.32), both i386 and amd64
 
-* <https://github.com/mncoppola/suterusu> ⭐ 686 | 🐛 5 | 🌐 C | 📅 2017-11-21
+* <https://github.com/mncoppola/suterusu> ⭐ 687 | 🐛 5 | 🌐 C | 📅 2017-11-21
 
   An LKM rootkit targeting Linux 2.6.x/3.x on x86, and ARM
 
@@ -96,7 +96,7 @@ Additional functions:
 
   A Linux kernel module to grab keys pressed in the keyboard.
 
-* <https://github.com/carloslack/KoviD> ⭐ 656 | 🐛 7 | 🌐 C | 📅 2026-05-31
+* <https://github.com/carloslack/KoviD> ⭐ 658 | 🐛 7 | 🌐 C | 📅 2026-05-31
 
   Linux 4.18+ rootkit with multiple reverse backdoors, task management, CPU usage hiding, stealth techniques, ELF infection and evasion from anti-rooktiks based on eBPF.
 
@@ -244,11 +244,11 @@ Additional functions:
 
 Tools for detecting and analyzing rootkits:
 
-* <https://github.com/CISOfy/lynis> ⭐ 16,363 | 🐛 222 | 🌐 Shell | 📅 2026-09-16
+* <https://github.com/CISOfy/lynis> ⭐ 16,366 | 🐛 222 | 🌐 Shell | 📅 2026-09-16
 
   Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems with rootkit scanning.
 
-* <https://github.com/draios/sysdig> ⭐ 8,296 | 🐛 117 | 🌐 C++ | 📅 2026-04-13
+* <https://github.com/draios/sysdig> ⭐ 8,295 | 🐛 116 | 🌐 C++ | 📅 2026-04-13
 
   Sysdig - Linux system exploration and troubleshooting tool with container support, useful for rootkit analysis.
 
@@ -278,4 +278,4 @@ Tools for detecting and analyzing rootkits:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
