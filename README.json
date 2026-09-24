@@ -192,7 +192,7 @@
             "open_issues": 31,
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2732,
+            "stars": 2733,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -213,7 +213,7 @@
             "open_issues": 12,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2459,
+            "stars": 2460,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1768,
+            "stars": 1770,
             "topics": [
               "ftrace",
               "hidden",
@@ -831,7 +831,7 @@
             "open_issues": 2,
             "owner": "ait-aecid",
             "repo": "caraxes",
-            "stars": 51,
+            "stars": 53,
             "topics": [
               "file-hiding",
               "ftrace-hooking",
@@ -1083,7 +1083,7 @@
             "open_issues": 0,
             "owner": "MatheuZSecurity",
             "repo": "Rootkit",
-            "stars": 223,
+            "stars": 224,
             "topics": [
               "collection",
               "ebpf",
@@ -1244,7 +1244,7 @@
             "open_issues": 222,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16366,
+            "stars": 16373,
             "topics": [
               "auditing",
               "compliance",
@@ -1286,7 +1286,7 @@
             "open_issues": 116,
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8295,
+            "stars": 8296,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1307,7 +1307,7 @@
             "open_issues": 125,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5055,
+            "stars": 5056,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1361,7 +1361,7 @@
             "open_issues": 1,
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2103,
+            "stars": 2104,
             "topics": [
               "check",
               "linux",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T05:35:24.058Z",
+    "last_updated": "2026-09-24T05:54:43.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
