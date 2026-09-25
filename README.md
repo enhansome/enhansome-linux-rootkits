@@ -34,7 +34,7 @@ Additional functions:
 
 ## :see\_no\_evil: user mode rootkits
 
-* <https://github.com/mempodippy/vlany> ⭐ 987 | 🐛 13 | 🌐 C | 📅 2020-12-11
+* <https://github.com/mempodippy/vlany> ⭐ 989 | 🐛 13 | 🌐 C | 📅 2020-12-11
 
   Linux LD\_PRELOAD rootkit (x86 and x86\_64 architectures)
 
@@ -64,19 +64,19 @@ Additional functions:
 
 ## :hear\_no\_evil: kernel mode rootkits
 
-* <https://github.com/f0rb1dd3n/Reptile> ⭐ 2,733 | 🐛 31 | 🌐 C | 📅 2026-08-17 :zap: [details](details/reptile.md) :zap:
+* <https://github.com/f0rb1dd3n/Reptile> ⭐ 2,734 | 🐛 31 | 🌐 C | 📅 2026-08-17 :zap: [details](details/reptile.md) :zap:
 
   Reptile is a LKM rootkit written for evil purposes that runs on Linux kernel 2.6.x/3.x/4.x
 
-* <https://github.com/m0nad/Diamorphine> ⭐ 2,460 | 🐛 12 | 🌐 C | 📅 2026-04-27
+* <https://github.com/m0nad/Diamorphine> ⭐ 2,462 | 🐛 12 | 🌐 C | 📅 2026-04-27
 
   LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86 and x86\_64)
 
-* <https://github.com/h3xduck/TripleCross> ⭐ 1,979 | 🐛 19 | 🌐 C | 📅 2024-04-07
+* <https://github.com/h3xduck/TripleCross> ⭐ 1,980 | 🐛 19 | 🌐 C | 📅 2024-04-07
 
   A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 
-* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,770 | 🐛 1 | 🌐 C | 📅 2026-09-21
+* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,773 | 🐛 1 | 🌐 C | 📅 2026-09-21
 
   Singularity is a powerful Linux Kernel Module (LKM) rootkit designed for modern 6.x kernels. It provides comprehensive stealth capabilities through advanced system call hooking via ftrace infrastructure.
 
@@ -84,11 +84,11 @@ Additional functions:
 
   Linux backdoor, rootkit, and eBPF bypass tools. Remote command execution over raw TCP.
 
-* <https://github.com/nurupo/rootkit> ⭐ 826 | 🐛 1 | 🌐 C | 📅 2024-04-07
+* <https://github.com/nurupo/rootkit> ⭐ 828 | 🐛 1 | 🌐 C | 📅 2024-04-07
 
   Linux rootkit for Ubuntu 16.04 and 10.04 (Linux Kernels 4.4.0 and 2.6.32), both i386 and amd64
 
-* <https://github.com/mncoppola/suterusu> ⭐ 687 | 🐛 5 | 🌐 C | 📅 2017-11-21
+* <https://github.com/mncoppola/suterusu> ⭐ 688 | 🐛 5 | 🌐 C | 📅 2017-11-21
 
   An LKM rootkit targeting Linux 2.6.x/3.x on x86, and ARM
 
@@ -100,11 +100,11 @@ Additional functions:
 
   Linux 4.18+ rootkit with multiple reverse backdoors, task management, CPU usage hiding, stealth techniques, ELF infection and evasion from anti-rooktiks based on eBPF.
 
-* <https://github.com/NoviceLive/research-rootkit> ⭐ 600 | 🐛 4 | 🌐 C | 📅 2021-12-01
+* <https://github.com/NoviceLive/research-rootkit> ⭐ 601 | 🐛 4 | 🌐 C | 📅 2021-12-01
 
   This is LibZeroEvil & the Research Rootkit project, in which there are step-by-step, experiment-based courses that help to get you started and keep your hands dirty with offensive or defensive development in the Linux kernel (LibZeroEvil).
 
-* <https://github.com/ivyl/rootkit> ⭐ 405 | 🐛 0 | 🌐 TeX | 📅 2024-07-29
+* <https://github.com/ivyl/rootkit> ⭐ 406 | 🐛 0 | 🌐 TeX | 📅 2024-07-29
 
   Sample Rootkit for Linux
 
@@ -120,7 +120,7 @@ Additional functions:
 
   linux rootkit adapted for 2.6 and 3.x
 
-* <https://github.com/croemheld/lkm-rootkit> ⭐ 180 | 🐛 0 | 🌐 C | 📅 2017-09-17
+* <https://github.com/croemheld/lkm-rootkit> ⭐ 181 | 🐛 0 | 🌐 C | 📅 2017-09-17
 
   A LKM rootkit for most newer kernel versions.
 
@@ -128,7 +128,7 @@ Additional functions:
 
   Yet another LKM rootkit for Linux. It hooks syscall table.
 
-* <https://github.com/h3xduck/Umbra> ⭐ 135 | 🐛 5 | 🌐 C | 📅 2021-09-19
+* <https://github.com/h3xduck/Umbra> ⭐ 136 | 🐛 5 | 🌐 C | 📅 2021-09-19
 
   An experimental LKM rootkit for v4.x/5.x kernels which opens a backdoor that can be used to get a reverse shell remotely.
 
@@ -136,15 +136,15 @@ Additional functions:
 
   Academic project of Linux rootkit made for Bachelor Engineering Thesis.
 
-* <https://github.com/QuokkaLight/rkduck> ⭐ 92 | 🐛 10 | 🌐 C | 📅 2024-07-27 :zap: [details](details/rkduck.md) :zap:
+* <https://github.com/QuokkaLight/rkduck> ⭐ 93 | 🐛 10 | 🌐 C | 📅 2024-07-27 :zap: [details](details/rkduck.md) :zap:
 
   rkduck - Rootkit for Linux v4
 
-* <https://github.com/David-Reguera-Garcia-Dreg/enyelkm> ⭐ 86 | 🐛 0 | 🌐 C | 📅 2023-08-11
+* <https://github.com/David-Reguera-Garcia-Dreg/enyelkm> ⭐ 87 | 🐛 0 | 🌐 C | 📅 2023-08-11
 
   LKM rootkit for Linux x86 with the 2.6 kernel. It inserts salts inside system\_call and sysenter\_entry.
 
-* <https://github.com/PinkP4nther/Sutekh> ⭐ 77 | 🐛 0 | 🌐 C | 📅 2019-10-17
+* <https://github.com/PinkP4nther/Sutekh> ⭐ 78 | 🐛 0 | 🌐 C | 📅 2019-10-17
 
   An example rootkit that gives a userland process root permissions (x86, 4.x)
 
@@ -156,7 +156,7 @@ Additional functions:
 
   An experimental linux kernel module (rootkit) with a keylogger and built-in IRC bot
 
-* <https://github.com/ait-aecid/caraxes/> ⭐ 53 | 🐛 2 | 🌐 C | 📅 2026-08-21
+* <https://github.com/ait-aecid/caraxes/> ⭐ 55 | 🐛 2 | 🌐 C | 📅 2026-08-21
 
   Academic Linux Kernel Module rootkit, from Linux 6.2 up tested until Linux 6.11 - may work with even newer versions.
 
@@ -216,7 +216,7 @@ Additional functions:
 
   Hide a process under Linux using the ld preloader
 
-* <https://github.com/MatheuZSecurity/Rootkit> ⭐ 224 | 🐛 0 | 🌐 C | 📅 2025-10-22
+* <https://github.com/MatheuZSecurity/Rootkit> ⭐ 225 | 🐛 0 | 🌐 C | 📅 2025-10-22
 
   Collection of codes focused on Linux rootkits
 
@@ -224,7 +224,7 @@ Additional functions:
 
   A layer 4 Single Packet Authentication (SPA) Module, used to conceal TCP ports on public facing machines and add an extra layer of security.
 
-* <https://github.com/spiderpig1297/kprochide> ⭐ 23 | 🐛 0 | 🌐 C | 📅 2020-10-09
+* <https://github.com/spiderpig1297/kprochide> ⭐ 24 | 🐛 0 | 🌐 C | 📅 2020-10-09
 
   LKM for hiding processes from the userland. The module is able to hide multiple processes and is able to dynamically receive new processes to hide.
 
@@ -232,7 +232,7 @@ Additional functions:
 
   kfile-over-icmp is a loadable kernel module for stealth sending of files over ICMP communication.
 
-* <https://github.com/spiderpig1297/kunkillable> ⭐ 17 | 🐛 0 | 🌐 C | 📅 2020-09-26
+* <https://github.com/spiderpig1297/kunkillable> ⭐ 18 | 🐛 0 | 🌐 C | 📅 2020-09-26
 
   LKM (loadable kernel module) that makes userland processes unkillable.
 
@@ -244,15 +244,15 @@ Additional functions:
 
 Tools for detecting and analyzing rootkits:
 
-* <https://github.com/CISOfy/lynis> ⭐ 16,373 | 🐛 222 | 🌐 Shell | 📅 2026-09-16
+* <https://github.com/CISOfy/lynis> ⭐ 16,377 | 🐛 222 | 🌐 Shell | 📅 2026-09-16
 
   Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems with rootkit scanning.
 
-* <https://github.com/draios/sysdig> ⭐ 8,296 | 🐛 116 | 🌐 C++ | 📅 2026-04-13
+* <https://github.com/draios/sysdig> ⭐ 8,295 | 🐛 116 | 🌐 C++ | 📅 2026-04-13
 
   Sysdig - Linux system exploration and troubleshooting tool with container support, useful for rootkit analysis.
 
-* <https://github.com/ossec/ossec-hids> ⭐ 5,056 | 🐛 125 | 🌐 C | 📅 2026-09-17
+* <https://github.com/ossec/ossec-hids> ⭐ 5,057 | 🐛 125 | 🌐 C | 📅 2026-09-17
 
   OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
 
@@ -264,7 +264,7 @@ Tools for detecting and analyzing rootkits:
 
   Linux emergency response and security check tool with rootkit detection capabilities.
 
-* <https://github.com/bad-antics/rupurt> ⭐ 12 | 🐛 1 | 🌐 C | 📅 2026-04-16
+* <https://github.com/bad-antics/rupurt> ⭐ 13 | 🐛 1 | 🌐 C | 📅 2026-04-16
 
   rupurt - Advanced Linux rootkit hunter with 250+ signatures, eBPF analysis, memory forensics, and APT detection. Features real-time monitoring and comprehensive threat intelligence.
 
@@ -278,4 +278,4 @@ Tools for detecting and analyzing rootkits:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

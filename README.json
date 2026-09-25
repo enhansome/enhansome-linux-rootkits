@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "mempodippy",
             "repo": "vlany",
-            "stars": 987,
+            "stars": 989,
             "topics": [
               "c",
               "cli",
@@ -192,7 +192,7 @@
             "open_issues": 31,
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2733,
+            "stars": 2734,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -213,7 +213,7 @@
             "open_issues": 12,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2460,
+            "stars": 2462,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -255,7 +255,7 @@
             "open_issues": 19,
             "owner": "h3xduck",
             "repo": "TripleCross",
-            "stars": 1979,
+            "stars": 1980,
             "topics": [
               "backdoor",
               "ebpf",
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1770,
+            "stars": 1773,
             "topics": [
               "ftrace",
               "hidden",
@@ -340,7 +340,7 @@
             "open_issues": 1,
             "owner": "nurupo",
             "repo": "rootkit",
-            "stars": 826,
+            "stars": 828,
             "topics": [
               "kernel-module",
               "linux-kernel-module",
@@ -366,7 +366,7 @@
             "open_issues": 5,
             "owner": "mncoppola",
             "repo": "suterusu",
-            "stars": 687,
+            "stars": 688,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "NoviceLive",
             "repo": "research-rootkit",
-            "stars": 600,
+            "stars": 601,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -480,7 +480,7 @@
             "open_issues": 0,
             "owner": "ivyl",
             "repo": "rootkit",
-            "stars": 405,
+            "stars": 406,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -589,7 +589,7 @@
             "open_issues": 0,
             "owner": "croemheld",
             "repo": "lkm-rootkit",
-            "stars": 180,
+            "stars": 181,
             "topics": [
               "kernel",
               "kernel-modules",
@@ -636,7 +636,7 @@
             "open_issues": 5,
             "owner": "h3xduck",
             "repo": "Umbra",
-            "stars": 135,
+            "stars": 136,
             "topics": [
               "backdoor",
               "kernel",
@@ -697,7 +697,7 @@
             "open_issues": 10,
             "owner": "QuokkaLight",
             "repo": "rkduck",
-            "stars": 92,
+            "stars": 93,
             "topics": [
               "kernel",
               "kernel-module",
@@ -725,7 +725,7 @@
             "open_issues": 0,
             "owner": "therealdreg",
             "repo": "enyelkm",
-            "stars": 86,
+            "stars": 87,
             "topics": [
               "hooking",
               "kernel-space",
@@ -753,7 +753,7 @@
             "open_issues": 0,
             "owner": "PinkP4nther",
             "repo": "Sutekh",
-            "stars": 77,
+            "stars": 78,
             "topics": [
               "c",
               "kernel",
@@ -831,7 +831,7 @@
             "open_issues": 2,
             "owner": "ait-aecid",
             "repo": "caraxes",
-            "stars": 53,
+            "stars": 55,
             "topics": [
               "file-hiding",
               "ftrace-hooking",
@@ -1083,7 +1083,7 @@
             "open_issues": 0,
             "owner": "MatheuZSecurity",
             "repo": "Rootkit",
-            "stars": 224,
+            "stars": 225,
             "topics": [
               "collection",
               "ebpf",
@@ -1147,7 +1147,7 @@
             "open_issues": 0,
             "owner": "spiderpig1297",
             "repo": "kprochide",
-            "stars": 23,
+            "stars": 24,
             "topics": [
               "c",
               "kernel",
@@ -1206,7 +1206,7 @@
             "open_issues": 0,
             "owner": "spiderpig1297",
             "repo": "kunkillable",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "c",
               "kernel",
@@ -1244,7 +1244,7 @@
             "open_issues": 222,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16373,
+            "stars": 16377,
             "topics": [
               "auditing",
               "compliance",
@@ -1286,7 +1286,7 @@
             "open_issues": 116,
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8296,
+            "stars": 8295,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1307,7 +1307,7 @@
             "open_issues": 125,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5056,
+            "stars": 5057,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1387,7 +1387,7 @@
             "open_issues": 1,
             "owner": "bad-antics",
             "repo": "rupurt",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "apt-detection",
               "ebpf",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T05:54:43.872Z",
+    "last_updated": "2026-09-25T05:55:45.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
