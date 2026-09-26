@@ -46,7 +46,7 @@ Additional functions:
 
   BEURK is an userland preload rootkit for GNU/Linux, heavily focused around anti-debugging and anti-detection.
 
-* <https://github.com/chokepoint/Jynx2> ⭐ 183 | 🐛 0 | 🌐 C | 📅 2012-12-15
+* <https://github.com/chokepoint/Jynx2> ⭐ 184 | 🐛 0 | 🌐 C | 📅 2012-12-15
 
   JynxKit2 is an LD\_PRELOAD userland rootkit based on the original JynxKit.
 
@@ -72,7 +72,7 @@ Additional functions:
 
   LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86 and x86\_64)
 
-* <https://github.com/h3xduck/TripleCross> ⭐ 1,980 | 🐛 19 | 🌐 C | 📅 2024-04-07
+* <https://github.com/h3xduck/TripleCross> ⭐ 1,981 | 🐛 19 | 🌐 C | 📅 2024-04-07
 
   A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 
@@ -244,7 +244,7 @@ Additional functions:
 
 Tools for detecting and analyzing rootkits:
 
-* <https://github.com/CISOfy/lynis> ⭐ 16,377 | 🐛 222 | 🌐 Shell | 📅 2026-09-16
+* <https://github.com/CISOfy/lynis> ⭐ 16,381 | 🐛 222 | 🌐 Shell | 📅 2026-09-16
 
   Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems with rootkit scanning.
 
@@ -252,7 +252,7 @@ Tools for detecting and analyzing rootkits:
 
   Sysdig - Linux system exploration and troubleshooting tool with container support, useful for rootkit analysis.
 
-* <https://github.com/ossec/ossec-hids> ⭐ 5,057 | 🐛 125 | 🌐 C | 📅 2026-09-17
+* <https://github.com/ossec/ossec-hids> ⭐ 5,059 | 🐛 125 | 🌐 C | 📅 2026-09-17
 
   OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
 
@@ -278,4 +278,4 @@ Tools for detecting and analyzing rootkits:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
