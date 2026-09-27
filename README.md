@@ -64,7 +64,7 @@ Additional functions:
 
 ## :hear\_no\_evil: kernel mode rootkits
 
-* <https://github.com/f0rb1dd3n/Reptile> ⭐ 2,734 | 🐛 31 | 🌐 C | 📅 2026-08-17 :zap: [details](details/reptile.md) :zap:
+* <https://github.com/f0rb1dd3n/Reptile> ⭐ 2,735 | 🐛 31 | 🌐 C | 📅 2026-08-17 :zap: [details](details/reptile.md) :zap:
 
   Reptile is a LKM rootkit written for evil purposes that runs on Linux kernel 2.6.x/3.x/4.x
 
@@ -76,7 +76,7 @@ Additional functions:
 
   A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 
-* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,773 | 🐛 1 | 🌐 C | 📅 2026-09-21
+* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,774 | 🐛 1 | 🌐 C | 📅 2026-09-21
 
   Singularity is a powerful Linux Kernel Module (LKM) rootkit designed for modern 6.x kernels. It provides comprehensive stealth capabilities through advanced system call hooking via ftrace infrastructure.
 
@@ -244,7 +244,7 @@ Additional functions:
 
 Tools for detecting and analyzing rootkits:
 
-* <https://github.com/CISOfy/lynis> ⭐ 16,381 | 🐛 222 | 🌐 Shell | 📅 2026-09-16
+* <https://github.com/CISOfy/lynis> ⭐ 16,385 | 🐛 222 | 🌐 Shell | 📅 2026-09-16
 
   Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems with rootkit scanning.
 
@@ -256,11 +256,11 @@ Tools for detecting and analyzing rootkits:
 
   OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
 
-* <https://github.com/Sysinternals/SysmonForLinux> ⭐ 2,159 | 🐛 41 | 🌐 C | 📅 2026-09-14
+* <https://github.com/Sysinternals/SysmonForLinux> ⭐ 2,160 | 🐛 41 | 🌐 C | 📅 2026-09-14
 
   Sysmon For Linux - system monitoring tool that logs security-relevant events.
 
-* <https://github.com/al0ne/LinuxCheck> ⭐ 2,104 | 🐛 1 | 🌐 Shell | 📅 2024-06-19
+* <https://github.com/al0ne/LinuxCheck> ⭐ 2,105 | 🐛 1 | 🌐 Shell | 📅 2024-06-19
 
   Linux emergency response and security check tool with rootkit detection capabilities.
 
@@ -278,4 +278,4 @@ Tools for detecting and analyzing rootkits:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
