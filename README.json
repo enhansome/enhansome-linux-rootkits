@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1776,
+            "stars": 1778,
             "topics": [
               "ftrace",
               "hidden",
@@ -568,7 +568,7 @@
             "open_issues": 0,
             "owner": "yaoyumeng",
             "repo": "adore-ng",
-            "stars": 225,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1244,7 +1244,7 @@
             "open_issues": 222,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16400,
+            "stars": 16407,
             "topics": [
               "auditing",
               "compliance",
@@ -1307,7 +1307,7 @@
             "open_issues": 125,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5061,
+            "stars": 5062,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1340,7 +1340,7 @@
             "open_issues": 41,
             "owner": "microsoft",
             "repo": "SysmonForLinux",
-            "stars": 2161,
+            "stars": 2162,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1361,7 +1361,7 @@
             "open_issues": 1,
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2105,
+            "stars": 2104,
             "topics": [
               "check",
               "linux",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T06:38:33.130Z",
+    "last_updated": "2026-09-30T06:20:56.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
@@ -1417,7 +1417,7 @@
       "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2104,
+      "stars": 2105,
       "topics": [
         "awesome",
         "awesome-list",
