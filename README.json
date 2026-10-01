@@ -192,7 +192,7 @@
             "open_issues": 31,
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2735,
+            "stars": 2736,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -213,7 +213,7 @@
             "open_issues": 12,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2464,
+            "stars": 2465,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -1244,7 +1244,7 @@
             "open_issues": 222,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16407,
+            "stars": 16413,
             "topics": [
               "auditing",
               "compliance",
@@ -1304,10 +1304,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-17T13:36:28Z",
-            "open_issues": 125,
+            "open_issues": 126,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5062,
+            "stars": 5064,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T06:20:56.193Z",
+    "last_updated": "2026-10-01T06:56:46.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
