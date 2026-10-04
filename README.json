@@ -192,7 +192,7 @@
             "open_issues": 31,
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2737,
+            "stars": 2738,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -255,7 +255,7 @@
             "open_issues": 19,
             "owner": "h3xduck",
             "repo": "TripleCross",
-            "stars": 1982,
+            "stars": 1983,
             "topics": [
               "backdoor",
               "ebpf",
@@ -314,7 +314,7 @@
             "open_issues": 13,
             "owner": "krisnova",
             "repo": "boopkit",
-            "stars": 1680,
+            "stars": 1681,
             "topics": [
               "ebpf",
               "linux-kernel-hacking",
@@ -1244,7 +1244,7 @@
             "open_issues": 222,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16420,
+            "stars": 16427,
             "topics": [
               "auditing",
               "compliance",
@@ -1286,7 +1286,7 @@
             "open_issues": 116,
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8298,
+            "stars": 8300,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1340,7 +1340,7 @@
             "open_issues": 41,
             "owner": "microsoft",
             "repo": "Sysmon-Linux",
-            "stars": 2162,
+            "stars": 2164,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1361,7 +1361,7 @@
             "open_issues": 1,
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2104,
+            "stars": 2105,
             "topics": [
               "check",
               "linux",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T06:07:34.428Z",
+    "last_updated": "2026-10-04T06:39:23.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
