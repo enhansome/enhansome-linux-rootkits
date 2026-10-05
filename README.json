@@ -192,7 +192,7 @@
             "open_issues": 31,
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2738,
+            "stars": 2740,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -213,7 +213,7 @@
             "open_issues": 12,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2467,
+            "stars": 2468,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1779,
+            "stars": 1788,
             "topics": [
               "ftrace",
               "hidden",
@@ -340,7 +340,7 @@
             "open_issues": 1,
             "owner": "nurupo",
             "repo": "rootkit",
-            "stars": 828,
+            "stars": 829,
             "topics": [
               "kernel-module",
               "linux-kernel-module",
@@ -636,7 +636,7 @@
             "open_issues": 5,
             "owner": "h3xduck",
             "repo": "Umbra",
-            "stars": 136,
+            "stars": 137,
             "topics": [
               "backdoor",
               "kernel",
@@ -1244,7 +1244,7 @@
             "open_issues": 222,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16427,
+            "stars": 16430,
             "topics": [
               "auditing",
               "compliance",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T06:39:23.869Z",
+    "last_updated": "2026-10-05T06:36:38.607Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
@@ -1417,7 +1417,7 @@
       "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2105,
+      "stars": 2106,
       "topics": [
         "awesome",
         "awesome-list",
