@@ -60,7 +60,7 @@
             "open_issues": 7,
             "owner": "chokepoint",
             "repo": "azazel",
-            "stars": 810,
+            "stars": 811,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -81,7 +81,7 @@
             "open_issues": 36,
             "owner": "unix-thrust",
             "repo": "beurk",
-            "stars": 387,
+            "stars": 388,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -213,7 +213,7 @@
             "open_issues": 12,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2468,
+            "stars": 2471,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1788,
+            "stars": 1792,
             "topics": [
               "ftrace",
               "hidden",
@@ -568,7 +568,7 @@
             "open_issues": 0,
             "owner": "yaoyumeng",
             "repo": "adore-ng",
-            "stars": 224,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1062,7 +1062,7 @@
             "open_issues": 11,
             "owner": "gianlucaborello",
             "repo": "libprocesshider",
-            "stars": 1133,
+            "stars": 1135,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1244,7 +1244,7 @@
             "open_issues": 222,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16430,
+            "stars": 16435,
             "topics": [
               "auditing",
               "compliance",
@@ -1286,7 +1286,7 @@
             "open_issues": 116,
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8300,
+            "stars": 8301,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1303,8 +1303,8 @@
             "id": 12901559,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-17T13:36:28Z",
-            "open_issues": 126,
+            "last_commit": "2026-10-05T20:15:00Z",
+            "open_issues": 121,
             "owner": "ossec",
             "repo": "ossec-hids",
             "stars": 5061,
@@ -1340,7 +1340,7 @@
             "open_issues": 41,
             "owner": "microsoft",
             "repo": "Sysmon-Linux",
-            "stars": 2164,
+            "stars": 2165,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1361,7 +1361,7 @@
             "open_issues": 1,
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2105,
+            "stars": 2106,
             "topics": [
               "check",
               "linux",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T06:36:38.607Z",
+    "last_updated": "2026-10-06T07:16:40.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
@@ -1417,7 +1417,7 @@
       "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2106,
+      "stars": 2107,
       "topics": [
         "awesome",
         "awesome-list",
