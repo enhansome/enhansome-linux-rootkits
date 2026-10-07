@@ -213,7 +213,7 @@
             "open_issues": 12,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2471,
+            "stars": 2472,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -279,11 +279,11 @@
             "id": 1062196393,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-21T15:05:13Z",
+            "last_commit": "2026-10-06T19:18:18Z",
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1793,
+            "stars": 1798,
             "topics": [
               "ftrace",
               "hidden",
@@ -1244,7 +1244,7 @@
             "open_issues": 222,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16436,
+            "stars": 16437,
             "topics": [
               "auditing",
               "compliance",
@@ -1303,11 +1303,11 @@
             "id": 12901559,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-05T20:15:00Z",
-            "open_issues": 121,
+            "last_commit": "2026-10-07T00:02:19Z",
+            "open_issues": 108,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5061,
+            "stars": 5062,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1340,7 +1340,7 @@
             "open_issues": 41,
             "owner": "microsoft",
             "repo": "Sysmon-Linux",
-            "stars": 2165,
+            "stars": 2166,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:51:53.371Z",
+    "last_updated": "2026-10-07T06:55:34.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
@@ -1417,7 +1417,7 @@
       "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2107,
+      "stars": 2109,
       "topics": [
         "awesome",
         "awesome-list",
