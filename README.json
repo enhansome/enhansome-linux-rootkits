@@ -213,7 +213,7 @@
             "open_issues": 12,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2472,
+            "stars": 2470,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1808,
+            "stars": 1810,
             "topics": [
               "ftrace",
               "hidden",
@@ -413,7 +413,7 @@
             "id": 476709450,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T22:16:18Z",
+            "last_commit": "2026-10-10T21:00:48Z",
             "open_issues": 7,
             "owner": "carloslack",
             "repo": "KoviD",
@@ -1244,7 +1244,7 @@
             "open_issues": 222,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16451,
+            "stars": 16457,
             "topics": [
               "auditing",
               "compliance",
@@ -1303,8 +1303,8 @@
             "id": 12901559,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-09T21:58:47Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-10T16:48:34Z",
+            "open_issues": 37,
             "owner": "ossec",
             "repo": "ossec-hids",
             "stars": 5061,
@@ -1340,7 +1340,7 @@
             "open_issues": 42,
             "owner": "microsoft",
             "repo": "Sysmon-Linux",
-            "stars": 2167,
+            "stars": 2166,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1361,7 +1361,7 @@
             "open_issues": 1,
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2107,
+            "stars": 2106,
             "topics": [
               "check",
               "linux",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T06:44:55.545Z",
+    "last_updated": "2026-10-11T06:52:53.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
