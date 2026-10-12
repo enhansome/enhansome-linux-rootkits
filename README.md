@@ -72,15 +72,15 @@ Additional functions:
 
   LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86 and x86\_64)
 
-* <https://github.com/h3xduck/TripleCross> ⭐ 1,984 | 🐛 19 | 🌐 C | 📅 2024-04-07
+* <https://github.com/h3xduck/TripleCross> ⭐ 1,982 | 🐛 19 | 🌐 C | 📅 2024-04-07
 
   A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 
-* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,810 | 🐛 1 | 🌐 C | 📅 2026-10-06
+* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,812 | 🐛 1 | 🌐 C | 📅 2026-10-06
 
   Singularity is a powerful Linux Kernel Module (LKM) rootkit designed for modern 6.x kernels. It provides comprehensive stealth capabilities through advanced system call hooking via ftrace infrastructure.
 
-* <https://github.com/kris-nova/boopkit> ⭐ 1,681 | 🐛 13 | 🌐 C | 📅 2023-10-19
+* <https://github.com/kris-nova/boopkit> ⭐ 1,680 | 🐛 13 | 🌐 C | 📅 2023-10-19
 
   Linux backdoor, rootkit, and eBPF bypass tools. Remote command execution over raw TCP.
 
@@ -152,15 +152,15 @@ Additional functions:
 
   KOPYCAT - Linux Kernel module-less implant (backdoor).
 
-* <https://github.com/bones-codes/the_colonel> ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2015-05-01
-
-  An experimental linux kernel module (rootkit) with a keylogger and built-in IRC bot
-
-* <https://github.com/ait-aecid/caraxes/> ⭐ 55 | 🐛 2 | 🌐 C | 📅 2026-08-21
+* <https://github.com/ait-aecid/caraxes/> ⭐ 56 | 🐛 2 | 🌐 C | 📅 2026-08-21
 
   Academic Linux Kernel Module rootkit, from Linux 6.2 up tested until Linux 6.11 - may work with even newer versions.
 
   Features only hiding of files/directories and processes.
+
+* <https://github.com/bones-codes/the_colonel> ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2015-05-01
+
+  An experimental linux kernel module (rootkit) with a keylogger and built-in IRC bot
 
 * <https://github.com/falk3n/subversive> ⭐ 51 | 🐛 0 | 🌐 C | 📅 2022-01-11
 
@@ -244,7 +244,7 @@ Additional functions:
 
 Tools for detecting and analyzing rootkits:
 
-* <https://github.com/CISOfy/lynis> ⭐ 16,457 | 🐛 222 | 🌐 Shell | 📅 2026-09-16
+* <https://github.com/CISOfy/lynis> ⭐ 16,461 | 🐛 222 | 🌐 Shell | 📅 2026-09-16
 
   Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems with rootkit scanning.
 
@@ -252,15 +252,15 @@ Tools for detecting and analyzing rootkits:
 
   Sysdig - Linux system exploration and troubleshooting tool with container support, useful for rootkit analysis.
 
-* <https://github.com/ossec/ossec-hids> ⭐ 5,061 | 🐛 37 | 🌐 C | 📅 2026-10-10
+* <https://github.com/ossec/ossec-hids> ⭐ 5,061 | 🐛 37 | 🌐 C | 📅 2026-10-11
 
   OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
 
-* <https://github.com/Sysinternals/SysmonForLinux> ⭐ 2,166 | 🐛 42 | 🌐 C | 📅 2026-09-14
+* <https://github.com/Sysinternals/SysmonForLinux> ⭐ 2,167 | 🐛 42 | 🌐 C | 📅 2026-09-14
 
   Sysmon For Linux - system monitoring tool that logs security-relevant events.
 
-* <https://github.com/al0ne/LinuxCheck> ⭐ 2,106 | 🐛 1 | 🌐 Shell | 📅 2024-06-19
+* <https://github.com/al0ne/LinuxCheck> ⭐ 2,107 | 🐛 1 | 🌐 Shell | 📅 2024-06-19
 
   Linux emergency response and security check tool with rootkit detection capabilities.
 
@@ -278,4 +278,4 @@ Tools for detecting and analyzing rootkits:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
