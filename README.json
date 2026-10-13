@@ -192,7 +192,7 @@
             "open_issues": 31,
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2739,
+            "stars": 2740,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -213,7 +213,7 @@
             "open_issues": 12,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2470,
+            "stars": 2471,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1812,
+            "stars": 1814,
             "topics": [
               "ftrace",
               "hidden",
@@ -387,7 +387,7 @@
             "open_issues": 0,
             "owner": "jarun",
             "repo": "spy",
-            "stars": 683,
+            "stars": 684,
             "topics": [
               "debugfs",
               "kernel",
@@ -1062,7 +1062,7 @@
             "open_issues": 11,
             "owner": "gianlucaborello",
             "repo": "libprocesshider",
-            "stars": 1136,
+            "stars": 1134,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1244,7 +1244,7 @@
             "open_issues": 222,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16461,
+            "stars": 16463,
             "topics": [
               "auditing",
               "compliance",
@@ -1286,7 +1286,7 @@
             "open_issues": 116,
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8301,
+            "stars": 8303,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1303,7 +1303,7 @@
             "id": 12901559,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-11T20:45:25Z",
+            "last_commit": "2026-10-12T20:52:15Z",
             "open_issues": 37,
             "owner": "ossec",
             "repo": "ossec-hids",
@@ -1340,7 +1340,7 @@
             "open_issues": 42,
             "owner": "microsoft",
             "repo": "Sysmon-Linux",
-            "stars": 2167,
+            "stars": 2166,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T07:01:52.406Z",
+    "last_updated": "2026-10-13T07:26:17.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
@@ -1417,7 +1417,7 @@
       "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2108,
+      "stars": 2109,
       "topics": [
         "awesome",
         "awesome-list",
