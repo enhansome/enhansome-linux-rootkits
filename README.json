@@ -213,7 +213,7 @@
             "open_issues": 12,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2472,
+            "stars": 2475,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -255,7 +255,7 @@
             "open_issues": 19,
             "owner": "h3xduck",
             "repo": "TripleCross",
-            "stars": 1983,
+            "stars": 1985,
             "topics": [
               "backdoor",
               "ebpf",
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1816,
+            "stars": 1820,
             "topics": [
               "ftrace",
               "hidden",
@@ -314,7 +314,7 @@
             "open_issues": 13,
             "owner": "krisnova",
             "repo": "boopkit",
-            "stars": 1682,
+            "stars": 1683,
             "topics": [
               "ebpf",
               "linux-kernel-hacking",
@@ -413,11 +413,11 @@
             "id": 476709450,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T21:00:48Z",
+            "last_commit": "2026-10-14T18:19:18Z",
             "open_issues": 7,
             "owner": "carloslack",
             "repo": "KoviD",
-            "stars": 660,
+            "stars": 661,
             "topics": [
               "assembly",
               "backdoor",
@@ -810,7 +810,7 @@
             "open_issues": 2,
             "owner": "ait-aecid",
             "repo": "caraxes",
-            "stars": 56,
+            "stars": 57,
             "topics": [
               "file-hiding",
               "ftrace-hooking",
@@ -1244,7 +1244,7 @@
             "open_issues": 223,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16463,
+            "stars": 16477,
             "topics": [
               "auditing",
               "compliance",
@@ -1304,7 +1304,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-12T20:52:15Z",
-            "open_issues": 37,
+            "open_issues": 39,
             "owner": "ossec",
             "repo": "ossec-hids",
             "stars": 5061,
@@ -1361,7 +1361,7 @@
             "open_issues": 1,
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2109,
+            "stars": 2111,
             "topics": [
               "check",
               "linux",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T05:53:47.568Z",
+    "last_updated": "2026-10-15T05:37:49.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
