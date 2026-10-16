@@ -102,7 +102,7 @@
             "open_issues": 0,
             "owner": "chokepoint",
             "repo": "Jynx2",
-            "stars": 184,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -255,7 +255,7 @@
             "open_issues": 19,
             "owner": "h3xduck",
             "repo": "TripleCross",
-            "stars": 1985,
+            "stars": 1986,
             "topics": [
               "backdoor",
               "ebpf",
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1820,
+            "stars": 1821,
             "topics": [
               "ftrace",
               "hidden",
@@ -413,7 +413,7 @@
             "id": 476709450,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T18:19:18Z",
+            "last_commit": "2026-10-15T18:00:31Z",
             "open_issues": 7,
             "owner": "carloslack",
             "repo": "KoviD",
@@ -1244,7 +1244,7 @@
             "open_issues": 223,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16477,
+            "stars": 16490,
             "topics": [
               "auditing",
               "compliance",
@@ -1286,7 +1286,7 @@
             "open_issues": 116,
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8305,
+            "stars": 8304,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1304,10 +1304,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-12T20:52:15Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5061,
+            "stars": 5062,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1336,11 +1336,11 @@
             "id": 308092559,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-14T16:23:59Z",
-            "open_issues": 42,
+            "last_commit": "2026-10-16T04:28:11Z",
+            "open_issues": 44,
             "owner": "microsoft",
             "repo": "Sysmon-Linux",
-            "stars": 2167,
+            "stars": 2168,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1361,7 +1361,7 @@
             "open_issues": 1,
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2111,
+            "stars": 2112,
             "topics": [
               "check",
               "linux",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T05:37:49.551Z",
+    "last_updated": "2026-10-16T05:33:21.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
