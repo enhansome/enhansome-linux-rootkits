@@ -192,7 +192,7 @@
             "open_issues": 31,
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2742,
+            "stars": 2743,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -213,7 +213,7 @@
             "open_issues": 12,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2475,
+            "stars": 2476,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -340,7 +340,7 @@
             "open_issues": 1,
             "owner": "nurupo",
             "repo": "rootkit",
-            "stars": 830,
+            "stars": 831,
             "topics": [
               "kernel-module",
               "linux-kernel-module",
@@ -387,7 +387,7 @@
             "open_issues": 0,
             "owner": "jarun",
             "repo": "spy",
-            "stars": 684,
+            "stars": 685,
             "topics": [
               "debugfs",
               "kernel",
@@ -1241,10 +1241,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T21:41:02Z",
-            "open_issues": 223,
+            "open_issues": 224,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16490,
+            "stars": 16493,
             "topics": [
               "auditing",
               "compliance",
@@ -1307,7 +1307,7 @@
             "open_issues": 40,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5062,
+            "stars": 5064,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T05:33:21.790Z",
+    "last_updated": "2026-10-17T05:22:10.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
@@ -1417,7 +1417,7 @@
       "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2110,
+      "stars": 2109,
       "topics": [
         "awesome",
         "awesome-list",
