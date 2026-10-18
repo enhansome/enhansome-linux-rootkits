@@ -213,7 +213,7 @@
             "open_issues": 12,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2476,
+            "stars": 2478,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -387,7 +387,7 @@
             "open_issues": 0,
             "owner": "jarun",
             "repo": "spy",
-            "stars": 685,
+            "stars": 684,
             "topics": [
               "debugfs",
               "kernel",
@@ -1244,7 +1244,7 @@
             "open_issues": 224,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16493,
+            "stars": 16502,
             "topics": [
               "auditing",
               "compliance",
@@ -1307,7 +1307,7 @@
             "open_issues": 40,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5064,
+            "stars": 5065,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T05:22:10.953Z",
+    "last_updated": "2026-10-18T05:30:04.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
