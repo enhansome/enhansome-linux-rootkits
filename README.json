@@ -192,7 +192,7 @@
             "open_issues": 31,
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2744,
+            "stars": 2745,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -255,7 +255,7 @@
             "open_issues": 19,
             "owner": "h3xduck",
             "repo": "TripleCross",
-            "stars": 1985,
+            "stars": 1988,
             "topics": [
               "backdoor",
               "ebpf",
@@ -417,7 +417,7 @@
             "open_issues": 7,
             "owner": "carloslack",
             "repo": "KoviD",
-            "stars": 661,
+            "stars": 663,
             "topics": [
               "assembly",
               "backdoor",
@@ -1244,7 +1244,7 @@
             "open_issues": 225,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16514,
+            "stars": 16520,
             "topics": [
               "auditing",
               "compliance",
@@ -1286,7 +1286,7 @@
             "open_issues": 116,
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8305,
+            "stars": 8306,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1303,8 +1303,8 @@
             "id": 12901559,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-18T20:09:54Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-20T20:50:21Z",
+            "open_issues": 40,
             "owner": "ossec",
             "repo": "ossec-hids",
             "stars": 5067,
@@ -1340,7 +1340,7 @@
             "open_issues": 45,
             "owner": "microsoft",
             "repo": "Sysmon-Linux",
-            "stars": 2168,
+            "stars": 2169,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T05:43:39.041Z",
+    "last_updated": "2026-10-21T05:46:27.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
@@ -1417,7 +1417,7 @@
       "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2110,
+      "stars": 2111,
       "topics": [
         "awesome",
         "awesome-list",
