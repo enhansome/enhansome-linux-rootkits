@@ -255,7 +255,7 @@
             "open_issues": 19,
             "owner": "h3xduck",
             "repo": "TripleCross",
-            "stars": 1988,
+            "stars": 1989,
             "topics": [
               "backdoor",
               "ebpf",
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1826,
+            "stars": 1825,
             "topics": [
               "ftrace",
               "hidden",
@@ -1062,7 +1062,7 @@
             "open_issues": 11,
             "owner": "gianlucaborello",
             "repo": "libprocesshider",
-            "stars": 1136,
+            "stars": 1137,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1244,7 +1244,7 @@
             "open_issues": 225,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16520,
+            "stars": 16526,
             "topics": [
               "auditing",
               "compliance",
@@ -1303,11 +1303,11 @@
             "id": 12901559,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-20T20:50:21Z",
-            "open_issues": 40,
+            "last_commit": "2026-10-21T19:00:07Z",
+            "open_issues": 39,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5067,
+            "stars": 5068,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1340,7 +1340,7 @@
             "open_issues": 45,
             "owner": "microsoft",
             "repo": "Sysmon-Linux",
-            "stars": 2169,
+            "stars": 2170,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T05:46:27.598Z",
+    "last_updated": "2026-10-22T05:49:27.703Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
