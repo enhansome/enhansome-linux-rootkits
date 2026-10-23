@@ -213,7 +213,7 @@
             "open_issues": 12,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2481,
+            "stars": 2482,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1825,
+            "stars": 1824,
             "topics": [
               "ftrace",
               "hidden",
@@ -1241,10 +1241,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T21:41:02Z",
-            "open_issues": 225,
+            "open_issues": 226,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16526,
+            "stars": 16530,
             "topics": [
               "auditing",
               "compliance",
@@ -1303,8 +1303,8 @@
             "id": 12901559,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-21T19:00:07Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-22T21:03:30Z",
+            "open_issues": 40,
             "owner": "ossec",
             "repo": "ossec-hids",
             "stars": 5068,
@@ -1340,7 +1340,7 @@
             "open_issues": 45,
             "owner": "microsoft",
             "repo": "Sysmon-Linux",
-            "stars": 2170,
+            "stars": 2173,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T05:49:27.703Z",
+    "last_updated": "2026-10-23T05:48:12.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
