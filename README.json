@@ -213,7 +213,7 @@
             "open_issues": 12,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2482,
+            "stars": 2483,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -255,7 +255,7 @@
             "open_issues": 19,
             "owner": "h3xduck",
             "repo": "TripleCross",
-            "stars": 1989,
+            "stars": 1990,
             "topics": [
               "backdoor",
               "ebpf",
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1824,
+            "stars": 1825,
             "topics": [
               "ftrace",
               "hidden",
@@ -1244,7 +1244,7 @@
             "open_issues": 226,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16530,
+            "stars": 16540,
             "topics": [
               "auditing",
               "compliance",
@@ -1283,7 +1283,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-04-13T12:32:03Z",
-            "open_issues": 116,
+            "open_issues": 115,
             "owner": "draios",
             "repo": "sysdig",
             "stars": 8306,
@@ -1303,11 +1303,11 @@
             "id": 12901559,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-22T21:03:30Z",
-            "open_issues": 40,
+            "last_commit": "2026-10-23T21:07:58Z",
+            "open_issues": 39,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5068,
+            "stars": 5067,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1337,10 +1337,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-16T04:28:11Z",
-            "open_issues": 45,
+            "open_issues": 46,
             "owner": "microsoft",
             "repo": "Sysmon-Linux",
-            "stars": 2173,
+            "stars": 2175,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T05:48:12.510Z",
+    "last_updated": "2026-10-24T05:28:37.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
@@ -1417,7 +1417,7 @@
       "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2111,
+      "stars": 2112,
       "topics": [
         "awesome",
         "awesome-list",
