@@ -68,7 +68,7 @@ Additional functions:
 
   Reptile is a LKM rootkit written for evil purposes that runs on Linux kernel 2.6.x/3.x/4.x
 
-* <https://github.com/m0nad/Diamorphine> ⭐ 2,483 | 🐛 12 | 🌐 C | 📅 2026-04-27
+* <https://github.com/m0nad/Diamorphine> ⭐ 2,485 | 🐛 12 | 🌐 C | 📅 2026-04-27
 
   LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86 and x86\_64)
 
@@ -228,13 +228,13 @@ Additional functions:
 
   LKM for hiding processes from the userland. The module is able to hide multiple processes and is able to dynamically receive new processes to hide.
 
+* <https://github.com/spiderpig1297/kunkillable> ⭐ 19 | 🐛 0 | 🌐 C | 📅 2020-09-26
+
+  LKM (loadable kernel module) that makes userland processes unkillable.
+
 * <https://github.com/spiderpig1297/kfile-over-icmp> ⭐ 18 | 🐛 0 | 🌐 C | 📅 2020-10-09
 
   kfile-over-icmp is a loadable kernel module for stealth sending of files over ICMP communication.
-
-* <https://github.com/spiderpig1297/kunkillable> ⭐ 18 | 🐛 0 | 🌐 C | 📅 2020-09-26
-
-  LKM (loadable kernel module) that makes userland processes unkillable.
 
 * <https://web.archive.org/web/20140701183221/https://www.thc.org/papers/LKM_HACKING.html>
 
@@ -244,23 +244,23 @@ Additional functions:
 
 Tools for detecting and analyzing rootkits:
 
-* <https://github.com/CISOfy/lynis> ⭐ 16,551 | 🐛 238 | 🌐 Shell | 📅 2026-09-16
+* <https://github.com/CISOfy/lynis> ⭐ 16,554 | 🐛 238 | 🌐 Shell | 📅 2026-09-16
 
   Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems with rootkit scanning.
 
-* <https://github.com/draios/sysdig> ⭐ 8,308 | 🐛 114 | 🌐 C++ | 📅 2026-04-13
+* <https://github.com/draios/sysdig> ⭐ 8,309 | 🐛 114 | 🌐 C++ | 📅 2026-04-13
 
   Sysdig - Linux system exploration and troubleshooting tool with container support, useful for rootkit analysis.
 
-* <https://github.com/ossec/ossec-hids> ⭐ 5,065 | 🐛 39 | 🌐 C | 📅 2026-10-24
+* <https://github.com/ossec/ossec-hids> ⭐ 5,066 | 🐛 39 | 🌐 C | 📅 2026-10-24
 
   OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
 
-* <https://github.com/Sysinternals/SysmonForLinux> ⭐ 2,176 | 🐛 46 | 🌐 C | 📅 2026-10-16
+* <https://github.com/Sysinternals/SysmonForLinux> ⭐ 2,176 | 🐛 47 | 🌐 C | 📅 2026-10-26
 
   Sysmon For Linux - system monitoring tool that logs security-relevant events.
 
-* <https://github.com/al0ne/LinuxCheck> ⭐ 2,112 | 🐛 1 | 🌐 Shell | 📅 2024-06-19
+* <https://github.com/al0ne/LinuxCheck> ⭐ 2,114 | 🐛 1 | 🌐 Shell | 📅 2024-06-19
 
   Linux emergency response and security check tool with rootkit detection capabilities.
 
@@ -278,4 +278,4 @@ Tools for detecting and analyzing rootkits:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
