@@ -96,7 +96,7 @@ Additional functions:
 
   A Linux kernel module to grab keys pressed in the keyboard.
 
-* <https://github.com/carloslack/KoviD> ⭐ 663 | 🐛 7 | 🌐 C | 📅 2026-10-18
+* <https://github.com/carloslack/KoviD> ⭐ 662 | 🐛 7 | 🌐 C | 📅 2026-10-18
 
   Linux 4.18+ rootkit with multiple reverse backdoors, task management, CPU usage hiding, stealth techniques, ELF infection and evasion from anti-rooktiks based on eBPF.
 
@@ -112,7 +112,7 @@ Additional functions:
 
   A kernelspace randomized syscall faulter for Linux 4.15+
 
-* <https://github.com/reveng007/reveng_rtkit> ⭐ 273 | 🐛 11 | 🌐 C | 📅 2025-12-06
+* <https://github.com/reveng007/reveng_rtkit> ⭐ 272 | 🐛 11 | 🌐 C | 📅 2025-12-06
 
   Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter antirootkit.
 
@@ -244,19 +244,19 @@ Additional functions:
 
 Tools for detecting and analyzing rootkits:
 
-* <https://github.com/CISOfy/lynis> ⭐ 16,572 | 🐛 238 | 🌐 Shell | 📅 2026-09-16
+* <https://github.com/CISOfy/lynis> ⭐ 16,582 | 🐛 238 | 🌐 Shell | 📅 2026-09-16
 
   Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems with rootkit scanning.
 
-* <https://github.com/draios/sysdig> ⭐ 8,310 | 🐛 114 | 🌐 C++ | 📅 2026-04-13
+* <https://github.com/draios/sysdig> ⭐ 8,311 | 🐛 114 | 🌐 C++ | 📅 2026-04-13
 
   Sysdig - Linux system exploration and troubleshooting tool with container support, useful for rootkit analysis.
 
-* <https://github.com/ossec/ossec-hids> ⭐ 5,067 | 🐛 39 | 🌐 C | 📅 2026-10-28
+* <https://github.com/ossec/ossec-hids> ⭐ 5,066 | 🐛 39 | 🌐 C | 📅 2026-10-28
 
   OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
 
-* <https://github.com/Sysinternals/SysmonForLinux> ⭐ 2,177 | 🐛 46 | 🌐 C | 📅 2026-10-26
+* <https://github.com/Sysinternals/SysmonForLinux> ⭐ 2,177 | 🐛 46 | 🌐 C | 📅 2026-10-28
 
   Sysmon For Linux - system monitoring tool that logs security-relevant events.
 
@@ -278,4 +278,4 @@ Tools for detecting and analyzing rootkits:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._

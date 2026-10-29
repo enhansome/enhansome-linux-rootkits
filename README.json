@@ -417,7 +417,7 @@
             "open_issues": 7,
             "owner": "carloslack",
             "repo": "KoviD",
-            "stars": 663,
+            "stars": 662,
             "topics": [
               "assembly",
               "backdoor",
@@ -528,7 +528,7 @@
             "open_issues": 11,
             "owner": "reveng007",
             "repo": "reveng_rtkit",
-            "stars": 273,
+            "stars": 272,
             "topics": [
               "antirootkit-bypass",
               "backdoor",
@@ -1244,7 +1244,7 @@
             "open_issues": 238,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16572,
+            "stars": 16582,
             "topics": [
               "auditing",
               "compliance",
@@ -1286,7 +1286,7 @@
             "open_issues": 114,
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8310,
+            "stars": 8311,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1303,11 +1303,11 @@
             "id": 12901559,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-28T00:11:11Z",
+            "last_commit": "2026-10-28T21:56:32Z",
             "open_issues": 39,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5067,
+            "stars": 5066,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1336,7 +1336,7 @@
             "id": 308092559,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-26T19:08:43Z",
+            "last_commit": "2026-10-28T22:42:20Z",
             "open_issues": 46,
             "owner": "microsoft",
             "repo": "Sysmon-Linux",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T06:41:01.955Z",
+    "last_updated": "2026-10-29T06:48:22.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
@@ -1417,7 +1417,7 @@
       "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2114,
+      "stars": 2113,
       "topics": [
         "awesome",
         "awesome-list",
