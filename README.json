@@ -210,7 +210,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-04-27T07:51:50Z",
-            "open_issues": 12,
+            "open_issues": 11,
             "owner": "m0nad",
             "repo": "Diamorphine",
             "stars": 2486,
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1829,
+            "stars": 1827,
             "topics": [
               "ftrace",
               "hidden",
@@ -387,7 +387,7 @@
             "open_issues": 0,
             "owner": "jarun",
             "repo": "spy",
-            "stars": 684,
+            "stars": 683,
             "topics": [
               "debugfs",
               "kernel",
@@ -1062,7 +1062,7 @@
             "open_issues": 11,
             "owner": "gianlucaborello",
             "repo": "libprocesshider",
-            "stars": 1137,
+            "stars": 1138,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1241,10 +1241,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T21:41:02Z",
-            "open_issues": 238,
+            "open_issues": 240,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16582,
+            "stars": 16589,
             "topics": [
               "auditing",
               "compliance",
@@ -1361,7 +1361,7 @@
             "open_issues": 1,
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2113,
+            "stars": 2112,
             "topics": [
               "check",
               "linux",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T06:48:22.985Z",
+    "last_updated": "2026-10-30T06:51:44.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
@@ -1417,7 +1417,7 @@
       "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2113,
+      "stars": 2111,
       "topics": [
         "awesome",
         "awesome-list",
