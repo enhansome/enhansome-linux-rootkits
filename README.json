@@ -192,7 +192,7 @@
             "open_issues": 31,
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2747,
+            "stars": 2748,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -204,16 +204,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)",
+            "description": "LKM rootkit for Linux Kernels 2.6.x-6.x (x86/x86_64 and ARM/64)",
             "homepage": null,
             "id": 14187797,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-04-27T07:51:50Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-30T14:16:30Z",
+            "open_issues": 10,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2486,
+            "stars": 2487,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -255,7 +255,7 @@
             "open_issues": 19,
             "owner": "h3xduck",
             "repo": "TripleCross",
-            "stars": 1990,
+            "stars": 1992,
             "topics": [
               "backdoor",
               "ebpf",
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1827,
+            "stars": 1829,
             "topics": [
               "ftrace",
               "hidden",
@@ -1083,7 +1083,7 @@
             "open_issues": 0,
             "owner": "MatheuZSecurity",
             "repo": "Rootkit",
-            "stars": 227,
+            "stars": 228,
             "topics": [
               "collection",
               "ebpf",
@@ -1244,7 +1244,7 @@
             "open_issues": 240,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16589,
+            "stars": 16595,
             "topics": [
               "auditing",
               "compliance",
@@ -1283,7 +1283,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-04-13T12:32:03Z",
-            "open_issues": 114,
+            "open_issues": 116,
             "owner": "draios",
             "repo": "sysdig",
             "stars": 8311,
@@ -1303,11 +1303,11 @@
             "id": 12901559,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-28T21:56:32Z",
+            "last_commit": "2026-10-31T01:51:19Z",
             "open_issues": 39,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5066,
+            "stars": 5069,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1361,7 +1361,7 @@
             "open_issues": 1,
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2112,
+            "stars": 2113,
             "topics": [
               "check",
               "linux",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T06:51:44.263Z",
+    "last_updated": "2026-10-31T06:43:30.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
@@ -1417,7 +1417,7 @@
       "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2111,
+      "stars": 2110,
       "topics": [
         "awesome",
         "awesome-list",
