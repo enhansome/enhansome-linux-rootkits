@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1829,
+            "stars": 1830,
             "topics": [
               "ftrace",
               "hidden",
@@ -417,7 +417,7 @@
             "open_issues": 7,
             "owner": "carloslack",
             "repo": "KoviD",
-            "stars": 662,
+            "stars": 663,
             "topics": [
               "assembly",
               "backdoor",
@@ -1062,7 +1062,7 @@
             "open_issues": 11,
             "owner": "gianlucaborello",
             "repo": "libprocesshider",
-            "stars": 1138,
+            "stars": 1137,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1244,7 +1244,7 @@
             "open_issues": 240,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16595,
+            "stars": 16604,
             "topics": [
               "auditing",
               "compliance",
@@ -1286,7 +1286,7 @@
             "open_issues": 116,
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8311,
+            "stars": 8312,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1307,7 +1307,7 @@
             "open_issues": 39,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5069,
+            "stars": 5070,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T06:43:30.247Z",
+    "last_updated": "2026-11-01T07:11:50.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
