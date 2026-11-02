@@ -1244,7 +1244,7 @@
             "open_issues": 240,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16604,
+            "stars": 16611,
             "topics": [
               "auditing",
               "compliance",
@@ -1303,7 +1303,7 @@
             "id": 12901559,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-31T01:51:19Z",
+            "last_commit": "2026-11-01T23:20:03Z",
             "open_issues": 39,
             "owner": "ossec",
             "repo": "ossec-hids",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T07:11:50.026Z",
+    "last_updated": "2026-11-02T07:22:57.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
@@ -1417,7 +1417,7 @@
       "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2110,
+      "stars": 2112,
       "topics": [
         "awesome",
         "awesome-list",
