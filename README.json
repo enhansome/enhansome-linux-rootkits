@@ -204,16 +204,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "LKM rootkit for Linux Kernels 2.6.x-6.x (x86/x86_64 and ARM/64)",
+            "description": "LKM rootkit for Linux Kernels 2.6.x-7.x (x86/x86_64 and ARM/ARM64)",
             "homepage": null,
             "id": 14187797,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T14:16:30Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-02T18:19:43Z",
+            "open_issues": 9,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2487,
+            "stars": 2488,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -314,7 +314,7 @@
             "open_issues": 13,
             "owner": "krisnova",
             "repo": "boopkit",
-            "stars": 1684,
+            "stars": 1685,
             "topics": [
               "ebpf",
               "linux-kernel-hacking",
@@ -1062,7 +1062,7 @@
             "open_issues": 11,
             "owner": "gianlucaborello",
             "repo": "libprocesshider",
-            "stars": 1137,
+            "stars": 1138,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1241,10 +1241,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T21:41:02Z",
-            "open_issues": 240,
+            "open_issues": 242,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16611,
+            "stars": 16615,
             "topics": [
               "auditing",
               "compliance",
@@ -1286,7 +1286,7 @@
             "open_issues": 116,
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8312,
+            "stars": 8313,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1303,7 +1303,7 @@
             "id": 12901559,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-01T23:20:03Z",
+            "last_commit": "2026-11-02T20:52:16Z",
             "open_issues": 39,
             "owner": "ossec",
             "repo": "ossec-hids",
@@ -1336,7 +1336,7 @@
             "id": 308092559,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-28T22:42:20Z",
+            "last_commit": "2026-11-02T17:10:56Z",
             "open_issues": 46,
             "owner": "microsoft",
             "repo": "Sysmon-Linux",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T07:22:57.515Z",
+    "last_updated": "2026-11-03T07:39:51.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
@@ -1417,7 +1417,7 @@
       "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2112,
+      "stars": 2113,
       "topics": [
         "awesome",
         "awesome-list",
