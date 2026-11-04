@@ -68,7 +68,7 @@ Additional functions:
 
   Reptile is a LKM rootkit written for evil purposes that runs on Linux kernel 2.6.x/3.x/4.x
 
-* <https://github.com/m0nad/Diamorphine> ⭐ 2,488 | 🐛 9 | 🌐 C | 📅 2026-11-02
+* <https://github.com/m0nad/Diamorphine> ⭐ 2,488 | 🐛 9 | 🌐 C | 📅 2026-11-03
 
   LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86 and x86\_64)
 
@@ -132,7 +132,7 @@ Additional functions:
 
   An experimental LKM rootkit for v4.x/5.x kernels which opens a backdoor that can be used to get a reverse shell remotely.
 
-* <https://github.com/jermeyyy/rooty> ⭐ 121 | 🐛 1 | 🌐 C | 📅 2026-03-27
+* <https://github.com/jermeyyy/rooty> ⭐ 122 | 🐛 1 | 🌐 C | 📅 2026-03-27
 
   Academic project of Linux rootkit made for Bachelor Engineering Thesis.
 
@@ -244,19 +244,19 @@ Additional functions:
 
 Tools for detecting and analyzing rootkits:
 
-* <https://github.com/CISOfy/lynis> ⭐ 16,615 | 🐛 242 | 🌐 Shell | 📅 2026-09-16
+* <https://github.com/CISOfy/lynis> ⭐ 16,622 | 🐛 243 | 🌐 Shell | 📅 2026-09-16
 
   Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems with rootkit scanning.
 
-* <https://github.com/draios/sysdig> ⭐ 8,313 | 🐛 116 | 🌐 C++ | 📅 2026-04-13
+* <https://github.com/draios/sysdig> ⭐ 8,315 | 🐛 116 | 🌐 C++ | 📅 2026-04-13
 
   Sysdig - Linux system exploration and troubleshooting tool with container support, useful for rootkit analysis.
 
-* <https://github.com/ossec/ossec-hids> ⭐ 5,070 | 🐛 39 | 🌐 C | 📅 2026-11-02
+* <https://github.com/ossec/ossec-hids> ⭐ 5,070 | 🐛 39 | 🌐 C | 📅 2026-11-03
 
   OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
 
-* <https://github.com/Sysinternals/SysmonForLinux> ⭐ 2,177 | 🐛 46 | 🌐 C | 📅 2026-11-02
+* <https://github.com/Sysinternals/SysmonForLinux> ⭐ 2,178 | 🐛 46 | 🌐 C | 📅 2026-11-02
 
   Sysmon For Linux - system monitoring tool that logs security-relevant events.
 
@@ -278,4 +278,4 @@ Tools for detecting and analyzing rootkits:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._

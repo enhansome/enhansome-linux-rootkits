@@ -209,7 +209,7 @@
             "id": 14187797,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T18:19:43Z",
+            "last_commit": "2026-11-03T10:05:34Z",
             "open_issues": 9,
             "owner": "m0nad",
             "repo": "Diamorphine",
@@ -666,7 +666,7 @@
             "open_issues": 1,
             "owner": "jermeyyy",
             "repo": "rooty",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "academic",
               "bachelor-engineering-thesis",
@@ -1241,10 +1241,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T21:41:02Z",
-            "open_issues": 242,
+            "open_issues": 243,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16615,
+            "stars": 16622,
             "topics": [
               "auditing",
               "compliance",
@@ -1286,7 +1286,7 @@
             "open_issues": 116,
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8313,
+            "stars": 8315,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1303,7 +1303,7 @@
             "id": 12901559,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-02T20:52:16Z",
+            "last_commit": "2026-11-03T22:05:10Z",
             "open_issues": 39,
             "owner": "ossec",
             "repo": "ossec-hids",
@@ -1340,7 +1340,7 @@
             "open_issues": 46,
             "owner": "microsoft",
             "repo": "Sysmon-Linux",
-            "stars": 2177,
+            "stars": 2178,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T07:39:51.214Z",
+    "last_updated": "2026-11-04T07:17:53.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
