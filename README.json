@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "mempodippy",
             "repo": "vlany",
-            "stars": 991,
+            "stars": 990,
             "topics": [
               "c",
               "cli",
@@ -60,7 +60,7 @@
             "open_issues": 7,
             "owner": "chokepoint",
             "repo": "azazel",
-            "stars": 811,
+            "stars": 810,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -279,7 +279,7 @@
             "id": 1062196393,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-06T19:18:18Z",
+            "last_commit": "2026-11-06T23:47:18Z",
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
@@ -340,7 +340,7 @@
             "open_issues": 1,
             "owner": "nurupo",
             "repo": "rootkit",
-            "stars": 831,
+            "stars": 830,
             "topics": [
               "kernel-module",
               "linux-kernel-module",
@@ -1062,7 +1062,7 @@
             "open_issues": 11,
             "owner": "gianlucaborello",
             "repo": "libprocesshider",
-            "stars": 1139,
+            "stars": 1138,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1244,7 +1244,7 @@
             "open_issues": 245,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16641,
+            "stars": 16649,
             "topics": [
               "auditing",
               "compliance",
@@ -1286,7 +1286,7 @@
             "open_issues": 116,
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8316,
+            "stars": 8315,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1303,11 +1303,11 @@
             "id": 12901559,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-06T02:48:07Z",
+            "last_commit": "2026-11-07T00:56:40Z",
             "open_issues": 39,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5070,
+            "stars": 5069,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1336,11 +1336,11 @@
             "id": 308092559,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-04T14:12:15Z",
+            "last_commit": "2026-11-06T18:50:50Z",
             "open_issues": 47,
             "owner": "microsoft",
             "repo": "Sysmon-Linux",
-            "stars": 2181,
+            "stars": 2184,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1361,7 +1361,7 @@
             "open_issues": 1,
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2113,
+            "stars": 2114,
             "topics": [
               "check",
               "linux",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T07:44:25.330Z",
+    "last_updated": "2026-11-07T06:52:13.715Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
@@ -1417,7 +1417,7 @@
       "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2114,
+      "stars": 2113,
       "topics": [
         "awesome",
         "awesome-list",
