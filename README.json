@@ -192,7 +192,7 @@
             "open_issues": 31,
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2748,
+            "stars": 2749,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -255,7 +255,7 @@
             "open_issues": 19,
             "owner": "h3xduck",
             "repo": "TripleCross",
-            "stars": 1993,
+            "stars": 1994,
             "topics": [
               "backdoor",
               "ebpf",
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1831,
+            "stars": 1830,
             "topics": [
               "ftrace",
               "hidden",
@@ -1241,10 +1241,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T21:41:02Z",
-            "open_issues": 245,
+            "open_issues": 246,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16649,
+            "stars": 16655,
             "topics": [
               "auditing",
               "compliance",
@@ -1303,7 +1303,7 @@
             "id": 12901559,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-07T00:56:40Z",
+            "last_commit": "2026-11-07T17:38:39Z",
             "open_issues": 39,
             "owner": "ossec",
             "repo": "ossec-hids",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T06:52:13.715Z",
+    "last_updated": "2026-11-08T06:58:02.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
