@@ -76,7 +76,7 @@ Additional functions:
 
   A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 
-* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,830 | 🐛 1 | 🌐 C | 📅 2026-11-06
+* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,833 | 🐛 1 | 🌐 C | 📅 2026-11-06
 
   Singularity is a powerful Linux Kernel Module (LKM) rootkit designed for modern 6.x kernels. It provides comprehensive stealth capabilities through advanced system call hooking via ftrace infrastructure.
 
@@ -88,7 +88,7 @@ Additional functions:
 
   Linux rootkit for Ubuntu 16.04 and 10.04 (Linux Kernels 4.4.0 and 2.6.32), both i386 and amd64
 
-* <https://github.com/mncoppola/suterusu> ⭐ 689 | 🐛 5 | 🌐 C | 📅 2017-11-21
+* <https://github.com/mncoppola/suterusu> ⭐ 690 | 🐛 5 | 🌐 C | 📅 2017-11-21
 
   An LKM rootkit targeting Linux 2.6.x/3.x on x86, and ARM
 
@@ -132,7 +132,7 @@ Additional functions:
 
   An experimental LKM rootkit for v4.x/5.x kernels which opens a backdoor that can be used to get a reverse shell remotely.
 
-* <https://github.com/jermeyyy/rooty> ⭐ 122 | 🐛 1 | 🌐 C | 📅 2026-03-27
+* <https://github.com/jermeyyy/rooty> ⭐ 123 | 🐛 1 | 🌐 C | 📅 2026-03-27
 
   Academic project of Linux rootkit made for Bachelor Engineering Thesis.
 
@@ -216,7 +216,7 @@ Additional functions:
 
   Hide a process under Linux using the ld preloader
 
-* <https://github.com/MatheuZSecurity/Rootkit> ⭐ 228 | 🐛 0 | 🌐 C | 📅 2025-10-22
+* <https://github.com/MatheuZSecurity/Rootkit> ⭐ 229 | 🐛 0 | 🌐 C | 📅 2025-10-22
 
   Collection of codes focused on Linux rootkits
 
@@ -244,11 +244,11 @@ Additional functions:
 
 Tools for detecting and analyzing rootkits:
 
-* <https://github.com/CISOfy/lynis> ⭐ 16,655 | 🐛 246 | 🌐 Shell | 📅 2026-09-16
+* <https://github.com/CISOfy/lynis> ⭐ 16,661 | 🐛 246 | 🌐 Shell | 📅 2026-09-16
 
   Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems with rootkit scanning.
 
-* <https://github.com/draios/sysdig> ⭐ 8,315 | 🐛 116 | 🌐 C++ | 📅 2026-04-13
+* <https://github.com/draios/sysdig> ⭐ 8,317 | 🐛 116 | 🌐 C++ | 📅 2026-04-13
 
   Sysdig - Linux system exploration and troubleshooting tool with container support, useful for rootkit analysis.
 
@@ -256,7 +256,7 @@ Tools for detecting and analyzing rootkits:
 
   OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
 
-* <https://github.com/Sysinternals/SysmonForLinux> ⭐ 2,184 | 🐛 47 | 🌐 C | 📅 2026-11-06
+* <https://github.com/Sysinternals/SysmonForLinux> ⭐ 2,184 | 🐛 48 | 🌐 C | 📅 2026-11-06
 
   Sysmon For Linux - system monitoring tool that logs security-relevant events.
 
@@ -278,4 +278,4 @@ Tools for detecting and analyzing rootkits:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
