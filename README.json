@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1833,
+            "stars": 1835,
             "topics": [
               "ftrace",
               "hidden",
@@ -1083,7 +1083,7 @@
             "open_issues": 0,
             "owner": "MatheuZSecurity",
             "repo": "Rootkit",
-            "stars": 229,
+            "stars": 230,
             "topics": [
               "collection",
               "ebpf",
@@ -1241,10 +1241,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T21:41:02Z",
-            "open_issues": 246,
+            "open_issues": 250,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16661,
+            "stars": 16663,
             "topics": [
               "auditing",
               "compliance",
@@ -1336,7 +1336,7 @@
             "id": 308092559,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-06T18:50:50Z",
+            "last_commit": "2026-11-09T17:09:30Z",
             "open_issues": 48,
             "owner": "microsoft",
             "repo": "Sysmon-Linux",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T07:43:27.296Z",
+    "last_updated": "2026-11-10T08:03:24.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
@@ -1417,7 +1417,7 @@
       "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2112,
+      "stars": 2113,
       "topics": [
         "awesome",
         "awesome-list",
