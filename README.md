@@ -64,11 +64,11 @@ Additional functions:
 
 ## :hear\_no\_evil: kernel mode rootkits
 
-* <https://github.com/f0rb1dd3n/Reptile> ⭐ 2,749 | 🐛 31 | 🌐 C | 📅 2026-08-17 :zap: [details](details/reptile.md) :zap:
+* <https://github.com/f0rb1dd3n/Reptile> ⭐ 2,750 | 🐛 31 | 🌐 C | 📅 2026-08-17 :zap: [details](details/reptile.md) :zap:
 
   Reptile is a LKM rootkit written for evil purposes that runs on Linux kernel 2.6.x/3.x/4.x
 
-* <https://github.com/m0nad/Diamorphine> ⭐ 2,492 | 🐛 9 | 🌐 C | 📅 2026-11-03
+* <https://github.com/m0nad/Diamorphine> ⭐ 2,493 | 🐛 9 | 🌐 C | 📅 2026-11-03
 
   LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86 and x86\_64)
 
@@ -76,7 +76,7 @@ Additional functions:
 
   A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 
-* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,836 | 🐛 1 | 🌐 C | 📅 2026-11-06
+* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,838 | 🐛 1 | 🌐 C | 📅 2026-11-06
 
   Singularity is a powerful Linux Kernel Module (LKM) rootkit designed for modern 6.x kernels. It provides comprehensive stealth capabilities through advanced system call hooking via ftrace infrastructure.
 
@@ -216,7 +216,7 @@ Additional functions:
 
   Hide a process under Linux using the ld preloader
 
-* <https://github.com/MatheuZSecurity/Rootkit> ⭐ 230 | 🐛 0 | 🌐 C | 📅 2025-10-22
+* <https://github.com/MatheuZSecurity/Rootkit> ⭐ 229 | 🐛 0 | 🌐 C | 📅 2025-10-22
 
   Collection of codes focused on Linux rootkits
 
@@ -244,7 +244,7 @@ Additional functions:
 
 Tools for detecting and analyzing rootkits:
 
-* <https://github.com/CISOfy/lynis> ⭐ 16,671 | 🐛 251 | 🌐 Shell | 📅 2026-09-16
+* <https://github.com/CISOfy/lynis> ⭐ 16,676 | 🐛 251 | 🌐 Shell | 📅 2026-09-16
 
   Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems with rootkit scanning.
 
@@ -252,11 +252,11 @@ Tools for detecting and analyzing rootkits:
 
   Sysdig - Linux system exploration and troubleshooting tool with container support, useful for rootkit analysis.
 
-* <https://github.com/ossec/ossec-hids> ⭐ 5,069 | 🐛 39 | 🌐 C | 📅 2026-11-07
+* <https://github.com/ossec/ossec-hids> ⭐ 5,069 | 🐛 39 | 🌐 C | 📅 2026-11-12
 
   OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
 
-* <https://github.com/Sysinternals/SysmonForLinux> ⭐ 2,185 | 🐛 48 | 🌐 C | 📅 2026-11-09
+* <https://github.com/Sysinternals/SysmonForLinux> ⭐ 2,186 | 🐛 48 | 🌐 C | 📅 2026-11-09
 
   Sysmon For Linux - system monitoring tool that logs security-relevant events.
 
@@ -278,4 +278,4 @@ Tools for detecting and analyzing rootkits:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
