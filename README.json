@@ -210,7 +210,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-03T10:05:34Z",
-            "open_issues": 9,
+            "open_issues": 2,
             "owner": "m0nad",
             "repo": "Diamorphine",
             "stars": 2497,
@@ -255,7 +255,7 @@
             "open_issues": 19,
             "owner": "h3xduck",
             "repo": "TripleCross",
-            "stars": 1994,
+            "stars": 1995,
             "topics": [
               "backdoor",
               "ebpf",
@@ -279,11 +279,11 @@
             "id": 1062196393,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-06T23:47:18Z",
+            "last_commit": "2026-11-15T01:38:21Z",
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1843,
+            "stars": 1844,
             "topics": [
               "ftrace",
               "hidden",
@@ -366,7 +366,7 @@
             "open_issues": 5,
             "owner": "mncoppola",
             "repo": "suterusu",
-            "stars": 690,
+            "stars": 689,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -881,7 +881,7 @@
             "open_issues": 0,
             "owner": "hanj4096",
             "repo": "wukong",
-            "stars": 45,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1244,7 +1244,7 @@
             "open_issues": 253,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16685,
+            "stars": 16688,
             "topics": [
               "auditing",
               "compliance",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T07:26:01.527Z",
+    "last_updated": "2026-11-15T07:37:22.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
