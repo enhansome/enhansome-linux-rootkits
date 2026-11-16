@@ -255,7 +255,7 @@
             "open_issues": 19,
             "owner": "h3xduck",
             "repo": "TripleCross",
-            "stars": 1995,
+            "stars": 1996,
             "topics": [
               "backdoor",
               "ebpf",
@@ -283,7 +283,7 @@
             "open_issues": 1,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1844,
+            "stars": 1847,
             "topics": [
               "ftrace",
               "hidden",
@@ -753,7 +753,7 @@
             "open_issues": 0,
             "owner": "PinkP4nther",
             "repo": "Sutekh",
-            "stars": 78,
+            "stars": 79,
             "topics": [
               "c",
               "kernel",
@@ -1244,7 +1244,7 @@
             "open_issues": 253,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16688,
+            "stars": 16695,
             "topics": [
               "auditing",
               "compliance",
@@ -1340,7 +1340,7 @@
             "open_issues": 46,
             "owner": "microsoft",
             "repo": "Sysmon-Linux",
-            "stars": 2186,
+            "stars": 2187,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T07:37:22.847Z",
+    "last_updated": "2026-11-16T07:42:55.668Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
