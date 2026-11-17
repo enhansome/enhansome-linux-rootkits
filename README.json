@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "mempodippy",
             "repo": "vlany",
-            "stars": 990,
+            "stars": 991,
             "topics": [
               "c",
               "cli",
@@ -60,7 +60,7 @@
             "open_issues": 7,
             "owner": "chokepoint",
             "repo": "azazel",
-            "stars": 810,
+            "stars": 811,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -81,7 +81,7 @@
             "open_issues": 36,
             "owner": "unix-thrust",
             "repo": "beurk",
-            "stars": 390,
+            "stars": 391,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -192,7 +192,7 @@
             "open_issues": 31,
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2750,
+            "stars": 2751,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -280,10 +280,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-11-15T01:38:21Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1847,
+            "stars": 1849,
             "topics": [
               "ftrace",
               "hidden",
@@ -314,7 +314,7 @@
             "open_issues": 13,
             "owner": "krisnova",
             "repo": "boopkit",
-            "stars": 1685,
+            "stars": 1684,
             "topics": [
               "ebpf",
               "linux-kernel-hacking",
@@ -340,7 +340,7 @@
             "open_issues": 1,
             "owner": "nurupo",
             "repo": "rootkit",
-            "stars": 829,
+            "stars": 830,
             "topics": [
               "kernel-module",
               "linux-kernel-module",
@@ -366,7 +366,7 @@
             "open_issues": 5,
             "owner": "mncoppola",
             "repo": "suterusu",
-            "stars": 689,
+            "stars": 690,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -387,7 +387,7 @@
             "open_issues": 0,
             "owner": "jarun",
             "repo": "spy",
-            "stars": 684,
+            "stars": 685,
             "topics": [
               "debugfs",
               "kernel",
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "NoviceLive",
             "repo": "research-rootkit",
-            "stars": 603,
+            "stars": 604,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -480,7 +480,7 @@
             "open_issues": 0,
             "owner": "ivyl",
             "repo": "rootkit",
-            "stars": 406,
+            "stars": 407,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1244,7 +1244,7 @@
             "open_issues": 253,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16695,
+            "stars": 16703,
             "topics": [
               "auditing",
               "compliance",
@@ -1336,7 +1336,7 @@
             "id": 308092559,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-13T18:34:12Z",
+            "last_commit": "2026-11-16T17:09:09Z",
             "open_issues": 46,
             "owner": "microsoft",
             "repo": "Sysmon-Linux",
@@ -1361,7 +1361,7 @@
             "open_issues": 1,
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2116,
+            "stars": 2117,
             "topics": [
               "check",
               "linux",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T07:42:55.668Z",
+    "last_updated": "2026-11-17T08:52:30.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
@@ -1417,7 +1417,7 @@
       "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2115,
+      "stars": 2116,
       "topics": [
         "awesome",
         "awesome-list",
