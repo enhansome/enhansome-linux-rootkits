@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "mempodippy",
             "repo": "vlany",
-            "stars": 991,
+            "stars": 992,
             "topics": [
               "c",
               "cli",
@@ -81,7 +81,7 @@
             "open_issues": 36,
             "owner": "unix-thrust",
             "repo": "beurk",
-            "stars": 391,
+            "stars": 392,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -192,7 +192,7 @@
             "open_issues": 31,
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2751,
+            "stars": 2753,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -213,7 +213,7 @@
             "open_issues": 2,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2497,
+            "stars": 2498,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -255,7 +255,7 @@
             "open_issues": 19,
             "owner": "h3xduck",
             "repo": "TripleCross",
-            "stars": 1996,
+            "stars": 1997,
             "topics": [
               "backdoor",
               "ebpf",
@@ -283,7 +283,7 @@
             "open_issues": 2,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1849,
+            "stars": 1854,
             "topics": [
               "ftrace",
               "hidden",
@@ -340,7 +340,7 @@
             "open_issues": 1,
             "owner": "nurupo",
             "repo": "rootkit",
-            "stars": 830,
+            "stars": 831,
             "topics": [
               "kernel-module",
               "linux-kernel-module",
@@ -417,7 +417,7 @@
             "open_issues": 7,
             "owner": "carloslack",
             "repo": "KoviD",
-            "stars": 664,
+            "stars": 666,
             "topics": [
               "assembly",
               "backdoor",
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "NoviceLive",
             "repo": "research-rootkit",
-            "stars": 604,
+            "stars": 605,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -480,7 +480,7 @@
             "open_issues": 0,
             "owner": "ivyl",
             "repo": "rootkit",
-            "stars": 407,
+            "stars": 408,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -528,7 +528,7 @@
             "open_issues": 11,
             "owner": "reveng007",
             "repo": "reveng_rtkit",
-            "stars": 272,
+            "stars": 273,
             "topics": [
               "antirootkit-bypass",
               "backdoor",
@@ -589,7 +589,7 @@
             "open_issues": 0,
             "owner": "croemheld",
             "repo": "lkm-rootkit",
-            "stars": 181,
+            "stars": 182,
             "topics": [
               "kernel",
               "kernel-modules",
@@ -615,7 +615,7 @@
             "open_issues": 1,
             "owner": "Eterna1",
             "repo": "puszek-rootkit",
-            "stars": 162,
+            "stars": 163,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1083,7 +1083,7 @@
             "open_issues": 0,
             "owner": "MatheuZSecurity",
             "repo": "Rootkit",
-            "stars": 229,
+            "stars": 230,
             "topics": [
               "collection",
               "ebpf",
@@ -1241,10 +1241,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T21:41:02Z",
-            "open_issues": 253,
+            "open_issues": 252,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16703,
+            "stars": 16712,
             "topics": [
               "auditing",
               "compliance",
@@ -1303,11 +1303,11 @@
             "id": 12901559,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-12T01:18:04Z",
-            "open_issues": 40,
+            "last_commit": "2026-11-17T20:19:02Z",
+            "open_issues": 39,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5071,
+            "stars": 5073,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T08:52:30.289Z",
+    "last_updated": "2026-11-18T08:16:32.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
@@ -1417,7 +1417,7 @@
       "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2116,
+      "stars": 2117,
       "topics": [
         "awesome",
         "awesome-list",
