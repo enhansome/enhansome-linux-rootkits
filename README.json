@@ -255,7 +255,7 @@
             "open_issues": 19,
             "owner": "h3xduck",
             "repo": "TripleCross",
-            "stars": 1996,
+            "stars": 1997,
             "topics": [
               "backdoor",
               "ebpf",
@@ -279,11 +279,11 @@
             "id": 1062196393,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-15T01:38:21Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-20T19:31:32Z",
+            "open_issues": 2,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1856,
+            "stars": 1857,
             "topics": [
               "ftrace",
               "hidden",
@@ -314,7 +314,7 @@
             "open_issues": 13,
             "owner": "krisnova",
             "repo": "boopkit",
-            "stars": 1682,
+            "stars": 1681,
             "topics": [
               "ebpf",
               "linux-kernel-hacking",
@@ -417,7 +417,7 @@
             "open_issues": 7,
             "owner": "carloslack",
             "repo": "KoviD",
-            "stars": 666,
+            "stars": 667,
             "topics": [
               "assembly",
               "backdoor",
@@ -1240,11 +1240,11 @@
             "id": 15078635,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-19T10:17:22Z",
-            "open_issues": 252,
+            "last_commit": "2026-11-20T23:35:47Z",
+            "open_issues": 247,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16727,
+            "stars": 16733,
             "topics": [
               "auditing",
               "compliance",
@@ -1286,7 +1286,7 @@
             "open_issues": 116,
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8319,
+            "stars": 8320,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1340,7 +1340,7 @@
             "open_issues": 46,
             "owner": "microsoft",
             "repo": "Sysmon-Linux",
-            "stars": 2188,
+            "stars": 2189,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T08:10:03.916Z",
+    "last_updated": "2026-11-21T08:03:26.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
