@@ -60,7 +60,7 @@
             "open_issues": 7,
             "owner": "chokepoint",
             "repo": "azazel",
-            "stars": 810,
+            "stars": 811,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -340,7 +340,7 @@
             "open_issues": 1,
             "owner": "nurupo",
             "repo": "rootkit",
-            "stars": 830,
+            "stars": 831,
             "topics": [
               "kernel-module",
               "linux-kernel-module",
@@ -528,7 +528,7 @@
             "open_issues": 11,
             "owner": "reveng007",
             "repo": "reveng_rtkit",
-            "stars": 273,
+            "stars": 274,
             "topics": [
               "antirootkit-bypass",
               "backdoor",
@@ -1244,7 +1244,7 @@
             "open_issues": 247,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16733,
+            "stars": 16739,
             "topics": [
               "auditing",
               "compliance",
@@ -1307,7 +1307,7 @@
             "open_issues": 39,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5073,
+            "stars": 5074,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T08:03:26.496Z",
+    "last_updated": "2026-11-22T07:50:07.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",

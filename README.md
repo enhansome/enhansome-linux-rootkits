@@ -38,7 +38,7 @@ Additional functions:
 
   Linux LD\_PRELOAD rootkit (x86 and x86\_64 architectures)
 
-* <https://github.com/chokepoint/azazel> ⭐ 810 | 🐛 7 | 🌐 C | 📅 2024-03-07
+* <https://github.com/chokepoint/azazel> ⭐ 811 | 🐛 7 | 🌐 C | 📅 2024-03-07
 
   Azazel is a userland rootkit based off of the original LD\_PRELOAD technique from Jynx rootkit.
 
@@ -84,7 +84,7 @@ Additional functions:
 
   Linux backdoor, rootkit, and eBPF bypass tools. Remote command execution over raw TCP.
 
-* <https://github.com/nurupo/rootkit> ⭐ 830 | 🐛 1 | 🌐 C | 📅 2024-04-07
+* <https://github.com/nurupo/rootkit> ⭐ 831 | 🐛 1 | 🌐 C | 📅 2024-04-07
 
   Linux rootkit for Ubuntu 16.04 and 10.04 (Linux Kernels 4.4.0 and 2.6.32), both i386 and amd64
 
@@ -112,7 +112,7 @@ Additional functions:
 
   A kernelspace randomized syscall faulter for Linux 4.15+
 
-* <https://github.com/reveng007/reveng_rtkit> ⭐ 273 | 🐛 11 | 🌐 C | 📅 2025-12-06
+* <https://github.com/reveng007/reveng_rtkit> ⭐ 274 | 🐛 11 | 🌐 C | 📅 2025-12-06
 
   Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter antirootkit.
 
@@ -244,7 +244,7 @@ Additional functions:
 
 Tools for detecting and analyzing rootkits:
 
-* <https://github.com/CISOfy/lynis> ⭐ 16,733 | 🐛 247 | 🌐 Shell | 📅 2026-11-20
+* <https://github.com/CISOfy/lynis> ⭐ 16,739 | 🐛 247 | 🌐 Shell | 📅 2026-11-20
 
   Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems with rootkit scanning.
 
@@ -252,7 +252,7 @@ Tools for detecting and analyzing rootkits:
 
   Sysdig - Linux system exploration and troubleshooting tool with container support, useful for rootkit analysis.
 
-* <https://github.com/ossec/ossec-hids> ⭐ 5,073 | 🐛 39 | 🌐 C | 📅 2026-11-19
+* <https://github.com/ossec/ossec-hids> ⭐ 5,074 | 🐛 39 | 🌐 C | 📅 2026-11-19
 
   OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
 
@@ -278,4 +278,4 @@ Tools for detecting and analyzing rootkits:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
