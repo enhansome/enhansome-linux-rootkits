@@ -192,7 +192,7 @@
             "open_issues": 31,
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2751,
+            "stars": 2750,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -280,7 +280,7 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-11-20T19:31:32Z",
-            "open_issues": 1,
+            "open_issues": 3,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
             "stars": 1857,
@@ -413,8 +413,8 @@
             "id": 476709450,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-18T19:15:36Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-24T00:01:22Z",
+            "open_issues": 8,
             "owner": "carloslack",
             "repo": "KoviD",
             "stars": 667,
@@ -1241,10 +1241,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-11-20T23:35:47Z",
-            "open_issues": 247,
+            "open_issues": 248,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16746,
+            "stars": 16751,
             "topics": [
               "auditing",
               "compliance",
@@ -1286,7 +1286,7 @@
             "open_issues": 116,
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8320,
+            "stars": 8322,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1340,7 +1340,7 @@
             "open_issues": 46,
             "owner": "microsoft",
             "repo": "Sysmon-Linux",
-            "stars": 2190,
+            "stars": 2191,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T08:39:07.635Z",
+    "last_updated": "2026-11-24T10:43:11.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
