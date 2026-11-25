@@ -38,7 +38,7 @@ Additional functions:
 
   Linux LD\_PRELOAD rootkit (x86 and x86\_64 architectures)
 
-* <https://github.com/chokepoint/azazel> ⭐ 811 | 🐛 7 | 🌐 C | 📅 2024-03-07
+* <https://github.com/chokepoint/azazel> ⭐ 812 | 🐛 7 | 🌐 C | 📅 2024-03-07
 
   Azazel is a userland rootkit based off of the original LD\_PRELOAD technique from Jynx rootkit.
 
@@ -64,11 +64,11 @@ Additional functions:
 
 ## :hear\_no\_evil: kernel mode rootkits
 
-* <https://github.com/f0rb1dd3n/Reptile> ⭐ 2,750 | 🐛 31 | 🌐 C | 📅 2026-08-17 :zap: [details](details/reptile.md) :zap:
+* <https://github.com/f0rb1dd3n/Reptile> ⭐ 2,749 | 🐛 31 | 🌐 C | 📅 2026-08-17 :zap: [details](details/reptile.md) :zap:
 
   Reptile is a LKM rootkit written for evil purposes that runs on Linux kernel 2.6.x/3.x/4.x
 
-* <https://github.com/m0nad/Diamorphine> ⭐ 2,499 | 🐛 2 | 🌐 C | 📅 2026-11-03
+* <https://github.com/m0nad/Diamorphine> ⭐ 2,501 | 🐛 2 | 🌐 C | 📅 2026-11-03
 
   LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86 and x86\_64)
 
@@ -76,11 +76,11 @@ Additional functions:
 
   A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 
-* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,857 | 🐛 3 | 🌐 C | 📅 2026-11-20
+* <https://github.com/MatheuZSecurity/Singularity> ⭐ 1,859 | 🐛 3 | 🌐 C | 📅 2026-11-20
 
   Singularity is a powerful Linux Kernel Module (LKM) rootkit designed for modern 6.x kernels. It provides comprehensive stealth capabilities through advanced system call hooking via ftrace infrastructure.
 
-* <https://github.com/kris-nova/boopkit> ⭐ 1,681 | 🐛 13 | 🌐 C | 📅 2023-10-19
+* <https://github.com/kris-nova/boopkit> ⭐ 1,682 | 🐛 13 | 🌐 C | 📅 2023-10-19
 
   Linux backdoor, rootkit, and eBPF bypass tools. Remote command execution over raw TCP.
 
@@ -212,7 +212,7 @@ Additional functions:
 
 ## :speak\_no\_evil: related stuff
 
-* <https://github.com/gianlucaborello/libprocesshider> ⭐ 1,138 | 🐛 11 | 🌐 C | 📅 2019-08-02
+* <https://github.com/gianlucaborello/libprocesshider> ⭐ 1,139 | 🐛 11 | 🌐 C | 📅 2019-08-02
 
   Hide a process under Linux using the ld preloader
 
@@ -244,11 +244,11 @@ Additional functions:
 
 Tools for detecting and analyzing rootkits:
 
-* <https://github.com/CISOfy/lynis> ⭐ 16,751 | 🐛 248 | 🌐 Shell | 📅 2026-11-20
+* <https://github.com/CISOfy/lynis> ⭐ 16,760 | 🐛 248 | 🌐 Shell | 📅 2026-11-20
 
   Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems with rootkit scanning.
 
-* <https://github.com/draios/sysdig> ⭐ 8,322 | 🐛 116 | 🌐 C++ | 📅 2026-04-13
+* <https://github.com/draios/sysdig> ⭐ 8,323 | 🐛 116 | 🌐 C++ | 📅 2026-04-13
 
   Sysdig - Linux system exploration and troubleshooting tool with container support, useful for rootkit analysis.
 
@@ -256,11 +256,11 @@ Tools for detecting and analyzing rootkits:
 
   OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
 
-* <https://github.com/Sysinternals/SysmonForLinux> ⭐ 2,191 | 🐛 46 | 🌐 C | 📅 2026-11-16
+* <https://github.com/Sysinternals/SysmonForLinux> ⭐ 2,193 | 🐛 46 | 🌐 C | 📅 2026-11-16
 
   Sysmon For Linux - system monitoring tool that logs security-relevant events.
 
-* <https://github.com/al0ne/LinuxCheck> ⭐ 2,116 | 🐛 1 | 🌐 Shell | 📅 2024-06-19
+* <https://github.com/al0ne/LinuxCheck> ⭐ 2,117 | 🐛 1 | 🌐 Shell | 📅 2024-06-19
 
   Linux emergency response and security check tool with rootkit detection capabilities.
 
@@ -278,4 +278,4 @@ Tools for detecting and analyzing rootkits:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
