@@ -192,7 +192,7 @@
             "open_issues": 31,
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2749,
+            "stars": 2750,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -213,7 +213,7 @@
             "open_issues": 2,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2501,
+            "stars": 2503,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -283,7 +283,7 @@
             "open_issues": 3,
             "owner": "MatheuZSecurity",
             "repo": "Singularity",
-            "stars": 1859,
+            "stars": 1862,
             "topics": [
               "ftrace",
               "hidden",
@@ -413,11 +413,11 @@
             "id": 476709450,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T00:01:22Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-25T15:14:16Z",
+            "open_issues": 7,
             "owner": "carloslack",
             "repo": "KoviD",
-            "stars": 667,
+            "stars": 668,
             "topics": [
               "assembly",
               "backdoor",
@@ -528,7 +528,7 @@
             "open_issues": 11,
             "owner": "reveng007",
             "repo": "reveng_rtkit",
-            "stars": 274,
+            "stars": 275,
             "topics": [
               "antirootkit-bypass",
               "backdoor",
@@ -1083,7 +1083,7 @@
             "open_issues": 0,
             "owner": "MatheuZSecurity",
             "repo": "Rootkit",
-            "stars": 229,
+            "stars": 230,
             "topics": [
               "collection",
               "ebpf",
@@ -1241,10 +1241,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-11-20T23:35:47Z",
-            "open_issues": 248,
+            "open_issues": 249,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16760,
+            "stars": 16844,
             "topics": [
               "auditing",
               "compliance",
@@ -1283,7 +1283,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-04-13T12:32:03Z",
-            "open_issues": 116,
+            "open_issues": 115,
             "owner": "draios",
             "repo": "sysdig",
             "stars": 8323,
@@ -1307,7 +1307,7 @@
             "open_issues": 39,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5075,
+            "stars": 5077,
             "topics": [
               "compliance",
               "file-integrity-management",
@@ -1361,7 +1361,7 @@
             "open_issues": 1,
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2117,
+            "stars": 2119,
             "topics": [
               "check",
               "linux",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T09:37:58.439Z",
+    "last_updated": "2026-11-26T09:13:51.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
@@ -1417,7 +1417,7 @@
       "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2116,
+      "stars": 2118,
       "topics": [
         "awesome",
         "awesome-list",
