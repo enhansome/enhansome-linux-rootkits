@@ -213,7 +213,7 @@
             "open_issues": 2,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2503,
+            "stars": 2505,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -255,7 +255,7 @@
             "open_issues": 19,
             "owner": "h3xduck",
             "repo": "TripleCross",
-            "stars": 1997,
+            "stars": 1998,
             "topics": [
               "backdoor",
               "ebpf",
@@ -1244,7 +1244,7 @@
             "open_issues": 249,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16844,
+            "stars": 16853,
             "topics": [
               "auditing",
               "compliance",
@@ -1361,7 +1361,7 @@
             "open_issues": 1,
             "owner": "al0ne",
             "repo": "LinuxCheck",
-            "stars": 2119,
+            "stars": 2121,
             "topics": [
               "check",
               "linux",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T09:13:51.423Z",
+    "last_updated": "2026-11-27T09:28:51.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
@@ -1417,7 +1417,7 @@
       "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2118,
+      "stars": 2119,
       "topics": [
         "awesome",
         "awesome-list",
