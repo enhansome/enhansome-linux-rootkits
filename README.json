@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "mempodippy",
             "repo": "vlany",
-            "stars": 991,
+            "stars": 990,
             "topics": [
               "c",
               "cli",
@@ -192,7 +192,7 @@
             "open_issues": 31,
             "owner": "f0rb1dd3n",
             "repo": "Reptile",
-            "stars": 2750,
+            "stars": 2749,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -213,7 +213,7 @@
             "open_issues": 2,
             "owner": "m0nad",
             "repo": "Diamorphine",
-            "stars": 2505,
+            "stars": 2506,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -255,7 +255,7 @@
             "open_issues": 19,
             "owner": "h3xduck",
             "repo": "TripleCross",
-            "stars": 1998,
+            "stars": 1997,
             "topics": [
               "backdoor",
               "ebpf",
@@ -340,7 +340,7 @@
             "open_issues": 1,
             "owner": "nurupo",
             "repo": "rootkit",
-            "stars": 831,
+            "stars": 830,
             "topics": [
               "kernel-module",
               "linux-kernel-module",
@@ -417,7 +417,7 @@
             "open_issues": 7,
             "owner": "carloslack",
             "repo": "KoviD",
-            "stars": 668,
+            "stars": 669,
             "topics": [
               "assembly",
               "backdoor",
@@ -501,7 +501,7 @@
             "open_issues": 12,
             "owner": "trailofbits",
             "repo": "krf",
-            "stars": 360,
+            "stars": 361,
             "topics": [
               "fault-injection",
               "freebsd",
@@ -589,7 +589,7 @@
             "open_issues": 0,
             "owner": "croemheld",
             "repo": "lkm-rootkit",
-            "stars": 182,
+            "stars": 181,
             "topics": [
               "kernel",
               "kernel-modules",
@@ -636,7 +636,7 @@
             "open_issues": 5,
             "owner": "h3xduck",
             "repo": "Umbra",
-            "stars": 138,
+            "stars": 137,
             "topics": [
               "backdoor",
               "kernel",
@@ -697,7 +697,7 @@
             "open_issues": 10,
             "owner": "QuokkaLight",
             "repo": "rkduck",
-            "stars": 93,
+            "stars": 92,
             "topics": [
               "kernel",
               "kernel-module",
@@ -725,7 +725,7 @@
             "open_issues": 0,
             "owner": "therealdreg",
             "repo": "enyelkm",
-            "stars": 87,
+            "stars": 86,
             "topics": [
               "hooking",
               "kernel-space",
@@ -753,7 +753,7 @@
             "open_issues": 0,
             "owner": "PinkP4nther",
             "repo": "Sutekh",
-            "stars": 79,
+            "stars": 78,
             "topics": [
               "c",
               "kernel",
@@ -810,7 +810,7 @@
             "open_issues": 2,
             "owner": "ait-aecid",
             "repo": "caraxes",
-            "stars": 57,
+            "stars": 56,
             "topics": [
               "file-hiding",
               "ftrace-hooking",
@@ -1083,7 +1083,7 @@
             "open_issues": 0,
             "owner": "MatheuZSecurity",
             "repo": "Rootkit",
-            "stars": 230,
+            "stars": 229,
             "topics": [
               "collection",
               "ebpf",
@@ -1147,7 +1147,7 @@
             "open_issues": 0,
             "owner": "spiderpig1297",
             "repo": "kprochide",
-            "stars": 24,
+            "stars": 23,
             "topics": [
               "c",
               "kernel",
@@ -1156,38 +1156,6 @@
               "linux",
               "low-level",
               "rootkit",
-              "x86"
-            ]
-          },
-          "first_seen": "2026-08-28T12:33:08.860Z"
-        },
-        {
-          "node_type": "item",
-          "title": "spiderpig1297/kunkillable",
-          "description": "spiderpig1297/kunkillable",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "kunkillable is an LKM that makes userland processes unkillable.",
-            "homepage": null,
-            "id": 298875393,
-            "language": "C",
-            "license": null,
-            "last_commit": "2020-09-26T20:14:29Z",
-            "open_issues": 0,
-            "owner": "spiderpig1297",
-            "repo": "kunkillable",
-            "stars": 19,
-            "topics": [
-              "c",
-              "kernel",
-              "kernel-space",
-              "linux",
-              "linux-module",
-              "lkm",
-              "low-level",
-              "rootkit",
-              "signal-processing",
               "x86"
             ]
           },
@@ -1221,6 +1189,38 @@
             ]
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
+        },
+        {
+          "node_type": "item",
+          "title": "spiderpig1297/kunkillable",
+          "description": "spiderpig1297/kunkillable",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "kunkillable is an LKM that makes userland processes unkillable.",
+            "homepage": null,
+            "id": 298875393,
+            "language": "C",
+            "license": null,
+            "last_commit": "2020-09-26T20:14:29Z",
+            "open_issues": 0,
+            "owner": "spiderpig1297",
+            "repo": "kunkillable",
+            "stars": 18,
+            "topics": [
+              "c",
+              "kernel",
+              "kernel-space",
+              "linux",
+              "linux-module",
+              "lkm",
+              "low-level",
+              "rootkit",
+              "signal-processing",
+              "x86"
+            ]
+          },
+          "first_seen": "2026-08-28T12:33:08.860Z"
         }
       ],
       "title": ":speak_no_evil: related stuff"
@@ -1244,7 +1244,7 @@
             "open_issues": 249,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16853,
+            "stars": 16858,
             "topics": [
               "auditing",
               "compliance",
@@ -1286,7 +1286,7 @@
             "open_issues": 115,
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8323,
+            "stars": 8325,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1340,7 +1340,7 @@
             "open_issues": 46,
             "owner": "microsoft",
             "repo": "Sysmon-Linux",
-            "stars": 2193,
+            "stars": 2195,
             "topics": []
           },
           "first_seen": "2026-08-28T12:33:08.860Z"
@@ -1387,7 +1387,7 @@
             "open_issues": 1,
             "owner": "bad-antics",
             "repo": "rupurt",
-            "stars": 13,
+            "stars": 12,
             "topics": [
               "apt-detection",
               "ebpf",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T09:28:51.719Z",
+    "last_updated": "2026-11-28T08:42:35.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome-linux-rootkits",
@@ -1417,7 +1417,7 @@
       "open_issues": 1,
       "owner": "milabs",
       "repo": "awesome-linux-rootkits",
-      "stars": 2119,
+      "stars": 2118,
       "topics": [
         "awesome",
         "awesome-list",
